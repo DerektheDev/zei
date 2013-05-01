@@ -1,0 +1,52 @@
+
+#slider{
+	margin:20px;
+	width: 920px;
+	height: 500px;
+	float: left;
+}
+
+#slider #viewport{
+	height:480px;
+}
+
+#slider .slide{
+	position: absolute;
+}
+
+/*	this is the container
+	for the numbered nav	*/
+#slider #num_container{
+	z-index: 9999;
+	display: block;
+	position: absolute;
+	background: #fff;
+	margin-top: 430px;
+	margin-left: 748px;
+	text-align: center;
+	height: 45px;
+	padding: 0 15px;
+}
+
+#num_container{
+
+}
+
+#num_container ul li.num{
+	display: inline;
+	float: left;
+	cursor: pointer;
+}
+
+#num_container ul li.num p{
+	display: inline;
+	clear:none;
+	float:left;
+	margin: 10px;
+	text-align: center;
+	font-size: 1.2em;
+}
+
+#num_container ul li.num.current_num p{
+	border-bottom: 1px solid #000;
+}
