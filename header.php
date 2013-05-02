@@ -71,3 +71,5 @@ $(function(){
 </div> <!--end menu-->
 
 </div> <!--end header-->
+
+<div id="content">

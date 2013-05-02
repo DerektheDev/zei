@@ -1,3 +1,5 @@
+</div> <!--end content-->
+
 <div id="footer">
 
 <div id="footer-menu">
