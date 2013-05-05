@@ -16,19 +16,29 @@
       -->
       <div class="row-fluid">
         <div id="slide1" class="slide">
-          <img src="images/hccedcenter500.jpg" alt="HCC Community Education Center" />
+          <div class="row-fluid">
+            <img src="images/hccedcenter500.jpg" alt="HCC Community Education Center" class="span12"/>
+          </div>
         </div>
         <div id="slide2" class="slide">
-          <img src="images/fourseasons500.jpg" alt="Four Seasons" />
+          <div class="row-fluid">
+            <img src="images/fourseasons500.jpg" alt="Four Seasons" class="span12"/>
+          </div>
         </div>
         <div id="slide3" class="slide">
-          <img src="images/isualumni500.jpg" alt="ISU Alumni Center" />
+          <div class="row-fluid">
+            <img src="images/isualumni500.jpg" alt="ISU Alumni Center" class="span12"/>
+          </div>
         </div>
         <div id="slide4" class="slide">
-          <img src="images/fivepoints500.jpg" alt="Five Points Washington" />
+          <div class="row-fluid">
+            <img src="images/fivepoints500.jpg" alt="Five Points Washington" class="span12"/>
+          </div>
         </div>
         <div id="slide5" class="slide">
-          <img src="images/autohaus500.jpg" alt="Autohaus of Peoria" />
+          <div class="row-fluid">
+            <img src="images/autohaus500.jpg" alt="Autohaus of Peoria" class="span12"/>
+          </div>
         </div>
       </div>
     </div>

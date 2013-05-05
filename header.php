@@ -5,6 +5,10 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
+<!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+<!--[if lt IE 9]>
+  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
 <link rel="icon" 
       type="image/png" 
       href="<?php echo $root; ?>/images/favicon.ico" />
@@ -24,6 +28,7 @@ img, div, a, input { behavior: url(css/iepngfix.htc) }
 <script type='text/javascript' src='<?php echo $root; ?>/js/jquery-1.6.2.min.js'></script>
 <script type='text/javascript' src='<?php echo $root; ?>/js/custom_scripts.js'></script>
 <script type='text/javascript' src='<?php echo $root; ?>/vendor/assets/bootstrap/js/bootstrap.min.js'></script>
+
 <script type='text/javascript'>
 
 $(function(){
@@ -50,27 +55,10 @@ $(function(){
 
 <div class="container">
 
-<header id="header">
-  <h1>Zeller Electric, Inc.</h1>
+<header id="header" class="row-fluid">
+  <h1 class="span5">Zeller Electric, Inc.</h1>
 
-  <nav id="menu">
-   <ul class="dropdown">
-   <li><a href="<?php echo $root; ?>/">Home</a></li>
-    <li>Showcase
-      <ul>
-        <li><a href="<?php echo $root; ?>/showcase/commercial.php">Commercial</a></li>
-        <li><a href="#">Residential</a></li>
-        <li><a href="<?php echo $root; ?>/showcase/agricultural.php">Agricultural</a></li>
-        <li><a href="<?php echo $root; ?>/showcase/design-build.php">Design/Build</a></li>
-        <li><a href="#">Data Communication</a></li>
-      </ul>
-      </li>
-      <li><a href="<?php echo $root; ?>/services.php">Services</a></li>
-      <li><a href="<?php echo $root; ?>/affiliations.php">Affiliations</a></li>
-      <li><a href="<?php echo $root; ?>/contact.php">Contact</a></li>
-    </ul>
-  </nav> <!--end menu-->
-
+  <?php include('header_nav.php'); ?>
 </header> <!--end header-->
 
 <div id="content">
