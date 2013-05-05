@@ -14,46 +14,27 @@
         </ul>
       </div>
       -->
-      
       <div class="row-fluid">
-        <div class="span12">
-          <div id="slide1" class="slide row-fluid">
-            <img src="images/hccedcenter500.jpg" alt="HCC Community Education Center" class="span12" />
-          </div>
+        <div id="slide1" class="slide">
+          <img src="images/hccedcenter500.jpg" alt="HCC Community Education Center" />
         </div>
-      </div>
-      <div class="row-fluid">
-        <div class="span12">
-          <div id="slide2" class="slide row-fluid">
-            <img src="images/fourseasons500.jpg" alt="Four Seasons" class="span12" />
-          </div>
+        <div id="slide2" class="slide">
+          <img src="images/fourseasons500.jpg" alt="Four Seasons" />
         </div>
-      </div>
-      <div class="row-fluid">
-        <div class="span12">
-          <div id="slide3" class="slide row-fluid">
-            <img src="images/isualumni500.jpg" alt="ISU Alumni Center" class="span12" />
-          </div>
+        <div id="slide3" class="slide">
+          <img src="images/isualumni500.jpg" alt="ISU Alumni Center" />
         </div>
-      </div>
-      <div class="row-fluid">
-        <div class="span12">
-          <div id="slide4" class="slide row-fluid">
-            <img src="images/fivepoints500.jpg" alt="Five Points Washington" class="span12" />
-          </div>
+        <div id="slide4" class="slide">
+          <img src="images/fivepoints500.jpg" alt="Five Points Washington" />
         </div>
-      </div>
-      <div class="row-fluid">
-        <div class="span12">
-          <div id="slide5" class="slide row-fluid">
-            <img src="images/autohaus500.jpg" alt="Autohaus of Peoria" class="span12" />
-          </div>
+        <div id="slide5" class="slide">
+          <img src="images/autohaus500.jpg" alt="Autohaus of Peoria" />
         </div>
       </div>
     </div>
   </div>
 </div>
-    
+
 <div id="content_area">
   <h2>Who we are</h2>  
   <p>

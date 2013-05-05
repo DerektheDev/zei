@@ -1,3 +1,4 @@
+	</div> <!-- end padded-->
 </div> <!--end content-->
 
 <div id="footer">
@@ -36,7 +37,6 @@
 </div><!--end footer"-->
 <br /> 
 </div> <!-- end container-->
-</div> <!-- end wrapper -->
 
 
 </body>

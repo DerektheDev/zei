@@ -48,8 +48,6 @@ $(function(){
 
 <body>
 
-<div id="wrapper">
-
 <div class="container">
 
 <header id="header">
@@ -76,3 +74,4 @@ $(function(){
 </header> <!--end header-->
 
 <div id="content">
+  <div class="padded">

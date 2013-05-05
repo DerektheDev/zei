@@ -42,7 +42,8 @@ ul{
 	list-style-type: none;
 	text-decoration: none;
 	font-family: 'Unna', Georgia, serif;
-	font-size: small;
+	/*font-size: small;*/
+	font-size: 1em;
 }
 
 * {
@@ -147,7 +148,7 @@ ul.dropdown a:link, ul.dropdown li{
 	text-decoration: none;
 	text-transform: uppercase;
 	font: bold small Helvetica, sans-serif;
-	font-size:small;
+	/*font-size:small;*/
 }
 
 ul.dropdown a:hover, ul.dropdown li:hover{
@@ -197,7 +198,10 @@ ul.dropdown ul li{
 	border: none;
 	text-shadow: none;
 	}
-	
+
+.padded{
+	padding:20px;
+}
 
 #content {
 /*	padding: 10px 0;*/
@@ -207,8 +211,8 @@ ul.dropdown ul li{
 }
 
 #mainimage{
-	margin:20px;
-	height: 350px;
+	/*margin:20px;*/
+	/*height: 350px;*/
 	background-color: grey;
 	/*float:left;*/
 }
@@ -218,7 +222,7 @@ ul.dropdown ul li{
 }
 
 #content_area{
-	margin: 20px;
+	/*margin: 20px;*/
 	/*float: left;*/
 	/*padding: 20px;
 	background-color: #fff;*/
@@ -265,17 +269,20 @@ ul.dropdown ul li{
 	clear: both;
 	/*float: left;*/
 	background-color: #FFF;
-	padding: 20px 0 0 20px;
+	/*padding: 20px 0 0 20px;*/
 	margin-bottom: 20px;
 }
 
 .affiliate_thumbnail{
-  margin:0 10px 15px 10px;
+  /*margin:0 10px 15px 10px;*/
   /*float:left;*/
-  width: 200px;
   height: 145px;
   text-align:center;
 }
+.affiliate_thumbnail img{
+  max-height: 150px;
+}
+
 
 .last{
 	margin-right: 0;
