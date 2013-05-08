@@ -105,9 +105,9 @@ body>#container {
 
 
 #header {
-	height:  100px;
+	/*height:  100px;*/
 	/*width: 100%;*/
-	padding: 0px 0px 5px 0px;
+	/*padding: 20px 20px 5px;*/
 	*top:-50px;
 	overflow: hidden;
 	/*float: left;*/
@@ -134,6 +134,14 @@ body>#container {
 	margin-top:35px;
 }
 
+.tagline{
+	margin-top:50px;
+	font-size: 1.8em;
+	font-weight: 100;
+	color: #057bb7;
+	text-align: center;
+}
+
 ul.dropdown {
 	margin: 0px;
 	padding: 0px;
@@ -142,6 +150,7 @@ ul.dropdown {
 	list-style-type: none;
 	position: relative;
 	z-index: 597;
+	display:block;
 }
 
 ul.dropdown a:link, ul.dropdown li{
@@ -205,8 +214,8 @@ ul.dropdown ul li{
 }
 
 #content {
-/*	padding: 10px 0;*/
-	margin: auto;
+	/*padding: 10px 0;*/
+	margin-top: -20px;
 	text-align: left;
 	/*float: left;*/
 }
