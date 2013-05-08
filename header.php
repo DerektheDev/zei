@@ -55,16 +55,8 @@ $(function(){
 
 <div class="container">
 
-<header id="header" class="row-fluid">
-  <div class="padded span12">
-    <!-- <h1 class="span5">Zeller Electric, Inc.</h1> -->
-    <a href='<?php echo $root; ?>/' class="span5">
-      <div class="row-fluid">
-        <img src='<?php echo $root; ?>/images/header_logo_only.gif' class='span12' />
-      </div>
-    </a>
-    <?php include('header_nav.php'); ?>
-  </div>
+<header id="header">
+  <?php include('header_nav.php'); ?>
 </header> <!--end header-->
 
 <div id="content">

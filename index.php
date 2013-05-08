@@ -1,24 +1,6 @@
 <?php include('header.php'); ?>
 
 
-<div class="row-fluid visible-phone">
-  <!-- phone goes here -->
-  <p>
-    Call us to see how we can work <br />
-    together on your next project.
-    <a href="tel:3092632353">
-      (309)263-2353
-    </a>
-  </p>
-
-  <ul id="phone_nav">
-    <li><a href="<?php echo $root; ?>/showcase.php">Showcase</a></li>
-    <li><a href="<?php echo $root; ?>/services.php">Services</a></li>
-    <li><a href="<?php echo $root; ?>/affiliations.php">Affiliations</a></li>
-  </ul>
-
-</div>
-
 <div class="row-fluid">
   <div class="span12">
     <div id="slider" class="row-fluid">
@@ -78,7 +60,7 @@
 <div class="row-fluid">
   <div class="span12">
     <div id="showcase">
-      <h2>Project Showcase</h2>
+      <h2 class="visible-desktop">Project Showcase</h2>
       
       <div class="row-fluid">
         <div id="Commercial" class="thumbnail span4">
@@ -113,7 +95,7 @@
         
         <div id="Data-comm" class="thumbnail span4">
           <a href="#" class="row-fluid">
-            <img src="images/data_thumbclass="span12" .jpg" />
+            <img src="images/data_thumb.jpg" class="span12" />
           </a>
           <h5>Data Comm</h5>
         </div>

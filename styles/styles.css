@@ -135,11 +135,12 @@ body>#container {
 }
 
 .tagline{
-	margin-top:50px;
-	font-size: 1.8em;
+	/*margin-top:50px;*/
+	font-size: 1.5em;
 	font-weight: 100;
 	color: #057bb7;
-	text-align: center;
+	text-align: right;
+	margin-bottom: 10px;
 }
 
 ul.dropdown {
@@ -240,7 +241,7 @@ ul.dropdown ul li{
 
 #showcase{
 	/*float: left;*/
-	margin:20px;
+	/*margin:20px;*/
 	/*height:225px;*/
 	padding-bottom:25px;
 }
@@ -299,6 +300,32 @@ ul.dropdown ul li{
 	padding: 10px 0 0 20px;
 }
 
+.center{
+	text-align: center;
+}
+
+#call-us-cta{
+	font-size: 1.5em;
+	line-height: 1.2em;
+	font-weight: 200;
+	margin: 1em 0;
+}
+#call-us-cta a{
+
+}
+
+ul#phone-nav{
+	margin:0 0 1em 0;
+}
+ul#phone-nav li{
+	text-transform: uppercase;
+	font-size: 2em;
+	font-weight: 100;
+	line-height: 1.5em;
+}
+ul#phone-nav li a{
+	color:black;
+}
 /*.desc
   {
   text-align:center;
