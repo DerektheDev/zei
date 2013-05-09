@@ -36,15 +36,15 @@
 <div class="row-fluid">
   <div class="row-fluid hidden-desktop">
     <div class="span12 center tagline">
-      Providing excellent service<br />
-      with honesty and integrity<br />
+      Providing excellent service<br class="visible-phone" />
+      with honesty and integrity<br class="visible-phone" />
       since 1979.
     </div>
   </div>
 </div>
 <?php if (strpos($_SERVER['SCRIPT_NAME'], 'index.php') !== false) { ?>
   <br />
-  <div class="row-fluid center">
+  <div class="row-fluid center visible-phone">
     <img src="http://placehold.it/50x50" />
   </div>
   <div class="visible-phone center" id="call-us-cta">
