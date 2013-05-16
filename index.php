@@ -65,21 +65,21 @@
       <div class="row-fluid">
         <div id="Commercial" class="thumbnail span4">
           <a href="<?php echo $root; ?>/showcase/commercial.php" class="row-fluid">
-            <img src="images/commercial_thumb.jpg" class="span12" />
+            <img src="images/home_thumbs/commercial_thumb.jpg" class="span12" />
           </a>
           <h5>Commercial</h5>
         </div>
         
         <div id="Residential" class="thumbnail span4">
           <a href="<?php echo $root; ?>/showcase/residential.php" class="row-fluid">
-            <img src="http://placehold.it/175x175" class="span12" />
+            <img src="http://placehold.it/175x75" class="span12" />
           </a>
           <h5>Residential</h5>
         </div>
         
         <div id="Agricultural" class="thumbnail span4">
           <a href="<?php echo $root; ?>/showcase/agricultural.php" class="row-fluid">
-            <img src="images/ag_thumb.jpg" class="span12" />
+            <img src="images/home_thumbs/ag_thumb.jpg" class="span12" />
           </a>
           <h5>Agricultural</h5>
         </div>
@@ -88,14 +88,14 @@
       <div class="row-fluid">
         <div id="Design-build" class="thumbnail span4">
           <a href="<?php echo $root; ?>/showcase/design-build.php" class="row-fluid">
-            <img src="images/design_thumb.jpg" class="span12" />
+            <img src="images/home_thumbs/design_thumb.jpg" class="span12" />
           </a>
           <h5>Design/Build</h5>
         </div>
         
         <div id="Data-comm" class="thumbnail span4">
           <a href="#" class="row-fluid">
-            <img src="images/data_thumb.jpg" class="span12" />
+            <img src="images/home_thumbs/data_thumb.jpg" class="span12" />
           </a>
           <h5>Data Comm</h5>
         </div>
