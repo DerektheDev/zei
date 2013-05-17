@@ -1,13 +1,13 @@
 <?php include('../header.php'); ?>
 
-<div id="content">
-	<div id="content_area" class="span12">
+<article id="content">
+	<header id="content_area" class="span12">
 		<div class="padded">
 			<h2>Showcase - Data-Communications</h2>
 		</div>
-	</div>
+	</header>
 
-	<div class="showcase_entry">
+	<section class="showcase_entry">
 		<div class="padded">
 			<div class="row-fluid">
 				<div class="showcase_entry_img span3">
@@ -20,8 +20,8 @@
 				</div>
 			</div>
 		</div>
-	</div>
-	<div class="showcase_entry">
+	</section>
+	<section class="showcase_entry">
 		<div class="padded">
 			<div class="row-fluid">
 				<div class="showcase_entry_img span3">
@@ -34,8 +34,8 @@
 				</div>
 			</div>
 		</div>
-	</div>
-	<div class="showcase_entry">
+	</section>
+	<section class="showcase_entry">
 		<div class="padded">
 			<div class="row-fluid">
 				<div class="showcase_entry_img span3">
@@ -47,7 +47,7 @@
 				</div>
 			</div>
 		</div>
-	</div>
-</div>
+	</section>
+</article>
 
 <?php include('../footer.php'); ?>

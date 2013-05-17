@@ -9,9 +9,9 @@
 </div>
 
 <div class="row-fluid">
-  <div id="content_area" class="span12">
+  <figure id="content_area" class="span12">
     <h2>Contact Us</h2>
-    <div class="row-fluid">
+    <address class="row-fluid">
       <div class="address span6">
         <h3>Address:</h3>
         <p>
@@ -128,7 +128,7 @@
         </div>
       </div><!-- end contact -->
     </div><!-- end white_content -->
-  </div><!-- content_area --> 
+  </figure><!-- content_area --> 
 </div><!-- row-fluid -->
 
 <?php include('footer.php'); ?>

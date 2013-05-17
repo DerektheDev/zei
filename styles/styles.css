@@ -64,6 +64,17 @@ body {
 	*position: absolute;
 }
 
+@media (max-width: 767px){
+	body{
+		padding:0 !important;
+	}
+	.container{
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
+	}
+}
+
+
 #wrapper{
 	margin: 20px auto;
 	width: 960px;

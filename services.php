@@ -1,15 +1,15 @@
 <?php include('header.php'); ?>
 
 <div class="row-fluid">
-  <div id="mainimage" class="span12">
+  <figure id="mainimage" class="span12">
     <div class="row-fluid">
       <img src="images/fivepoints350.jpg" alt="Five Points Washington" id="mainimage" class="span12" />
     </div>
-  </div>
+  </figure>
 </div>
 
 <div class="row-fluid">
-  <div id="content_area" class="span12">
+  <article id="content_area" class="span12">
     <div id="services">  
       <h2>Services</h2>
       <p>Our area of expertise is in commercial, light industrial, and residential electrical services. ZEI also offers over 50 years combined experience in design-build services and specializes in finding cost-effective, common-sense solutions for all your electrical needs.</p><br />
@@ -25,6 +25,6 @@
         <li>and much more!</li>
       </ul>
     </div> <!-- services -->
-  </div><!-- content_area -->
+  </article><!-- content_area -->
 </div>
 <?php include('footer.php'); ?>

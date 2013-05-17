@@ -9,7 +9,7 @@
 </div>
 
 <div class="row-fluid">
-  <div id="content_area" class="span12">
+  <article id="content_area" class="span12">
     <h2>Affiliations</h2>  
     <p>ZEI has many valued partners and works with many different organizations. We are also members of both the <a href="http://www.mcleancochamber.org/" target="_blank">McLean County Chamber of Commerce</a>, and the <a href="http://www.mortonchamber.org/" target="_blank">Morton Chamber of Commerce</a>.</p>
 
@@ -54,7 +54,7 @@
     </div>
       
         
-    <div class="columns">
+    <section class="columns">
       <h4>Supplier and Manufacturer Links</h4>
       <br /><br />
       <div id="lists" class="row-fluid">
@@ -72,8 +72,8 @@
           <li><a href="http://www.springfieldelectric.com/" target="_blank">Springfield Electric</a></li>
         </ul>
       </div>
-    </div>
-  </div><!-- content_area -->
+    </section>
+  </article><!-- content_area -->
 </div>
 
 <?php include('footer.php'); ?>

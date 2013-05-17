@@ -3,7 +3,7 @@
 
 <div class="row-fluid">
   <div class="span12">
-    <div id="slider" class="row-fluid">
+    <figure id="slider" class="row-fluid">
       <!--
       <div id="num_container">
         <ul>
@@ -42,11 +42,11 @@
           </div>
         </div>
       </div>
-    </div>
+    </figure>
   </div>
 </div>
 
-<div id="content_area">
+<article id="content_area">
   <h2>Who we are</h2>  
   <p>
     Zeller Electric, Inc. was founded in 1979 by brothers Jon and David Zeller. Our mission is to provide excellent services with honesty and integrity. Despite all the changes in the construction industry over the years, Zeller Electric, Inc. remains dedicated to its mission, basing success on reputation rather than profit margin.
@@ -55,11 +55,11 @@
   <p>
     As a member of local unions #34 and #197 (representing Peoria and Bloomington/Normal), we employ approximately thirty inside electrical journeymen and apprentices and we service all of Central Illinois.
   </p>
-</div><!-- content_area --> 
+</article><!-- content_area --> 
 
 <div class="row-fluid">
   <div class="span12">
-    <div id="showcase">
+    <nav id="showcase">
       <h2 class="visible-desktop">Project Showcase</h2>
       
       <div class="row-fluid">
@@ -100,7 +100,7 @@
           <h5>Data Comm</h5>
         </div>
       </div>
-    </div>
+    </nav>
   </div>
 </div> <!--end showcase-->
 
