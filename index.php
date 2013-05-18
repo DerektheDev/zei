@@ -1,20 +1,20 @@
 <?php include('header.php'); ?>
 
 
-<div class="row-fluid">
+<div class="row-fluid pull-left">
   <div class="span12">
     <figure id="slider" class="row-fluid">
-      <!--
-      <div id="num_container">
+      
+      <div id="num_container" class="pull-right">
         <ul>
-          <li id="num1" class="num"><p>1</p></li>
-          <li id="num2" class="num"><p>2</p></li>
-          <li id="num3" class="num"><p>3</p></li>
-          <li id="num4" class="num"><p>4</p></li>
-          <li id="num5" class="num"><p>5</p></li>
+          <li id="num1" class="num current_num" num='1'><p>1</p></li>
+          <li id="num2" class="num" num='2'><p>2</p></li>
+          <li id="num3" class="num" num='3'><p>3</p></li>
+          <li id="num4" class="num" num='4'><p>4</p></li>
+          <li id="num5" class="num" num='5'><p>5</p></li>
         </ul>
       </div>
-      -->
+      
       <div class="row-fluid">
         <div id="slide1" class="slide">
           <div class="row-fluid">
@@ -39,6 +39,11 @@
         <div id="slide5" class="slide">
           <div class="row-fluid">
             <img src="images/autohaus500.jpg" alt="Autohaus of Peoria" class="span12"/>
+          </div>
+        </div>
+        <div class="slide_breaker">
+          <div class="row-fluid">
+            <img src="images/hccedcenter500.jpg" alt="HCC Community Education Center" class="span12" style="visibility:hidden;" />
           </div>
         </div>
       </div>
