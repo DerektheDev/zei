@@ -1,14 +1,19 @@
 function autoProgressSlides(){
-	first_num 	= $('.current_num');
-	first_slide = $('.current_slide');
+	// first_num 	= $('.current_num');
+	// first_slide = $('.current_slide');
 	
-	next_num   = $(first_num).next('.num');
-	next_slide = $(first_slide).next('.slide');
+	// next_num   = $(first_num).next('.num');
+	// next_slide = $(first_slide).next('.slide');
 
-	first_num.removeClass('current_num');
-	next_num.addClass('current_num');
-	first_slide.fadeOut('slow');
-	next_slide.fadeIn('slow');
+	// first_num.removeClass('current_num');
+	// next_num.addClass('current_num');
+	// first_slide.fadeOut('slow');
+	// next_slide.fadeIn('slow');
+
+	$(".current_num").removeClass('current_num').next('.num').addClass('current_num');
+	// $(".current_slide").fadeOut();
+	$(".current_slide").removeClass('current_slide').next('.slide').addClass('current_slide');
+	// $(".current_slide").fadeIn();
 }
 
 $(document).ready(function(){
@@ -33,6 +38,8 @@ $(document).ready(function(){
 
 	// rotate automatically
 	// setInterval(autoProgressSlides, 1000);
+
+	$('.slide').not('.current_slide').hide();
 
 	setInterval(function(){
 		autoProgressSlides()
