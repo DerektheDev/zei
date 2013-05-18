@@ -1,19 +1,14 @@
 function autoProgressSlides(){
-	clickable_num = $('.current_num');
-	int_num = clickable_num.attr('num');
+	first_num 	= $('.current_num');
+	first_slide = $('.current_slide');
+	
+	next_num   = $(first_num).next('.num');
+	next_slide = $(first_slide).next('.slide');
 
-	clickable_num.removeClass('current_num');
-	clickable_num.next('.num').addClass('current_num');
-
-
-	wrong_slides = $('.slide').not('#slide'+int_num);
-	wrong_slides.fadeOut('slow');
-
-	// console.log(wrong_slides);
-
-	right_slide = $('.slide #slide'+int_num);
-
-	right_slide.fadeIn('slow');
+	first_num.removeClass('current_num');
+	next_num.addClass('current_num');
+	first_slide.fadeOut('slow');
+	next_slide.fadeIn('slow');
 }
 
 $(document).ready(function(){
@@ -39,9 +34,9 @@ $(document).ready(function(){
 	// rotate automatically
 	// setInterval(autoProgressSlides, 1000);
 
-	// setInterval(function(){
-	// 	autoProgressSlides()
-	// 	// autoProgressSlides()
-	// }, 1000);
-	
+	setInterval(function(){
+		autoProgressSlides()
+		// autoProgressSlides()
+	}, 1000);
+
 });

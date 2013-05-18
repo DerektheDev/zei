@@ -16,7 +16,7 @@
       </div>
       
       <div class="row-fluid">
-        <div id="slide1" class="slide">
+        <div id="slide1" class="slide current_slide">
           <div class="row-fluid">
             <img src="images/hccedcenter500.jpg" alt="HCC Community Education Center" class="span12"/>
           </div>
