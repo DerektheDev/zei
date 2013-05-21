@@ -69,8 +69,26 @@
 }
 
 
+.slider-arrow{
+	font-size: 3em;
+	color:white;
+	position:absolute;
+	z-index: 99999;
+	display:block;
+	margin-top:22%;
+	cursor: pointer;
+}
+.slider-arrow:hover{
+	text-decoration: none;
+	color: #057bb7;
+}
 
-
+.slider-arrow#left-arrow{
+	left:1em;
+}
+.slider-arrow#right-arrow{
+	right:1em;	
+}
 
 
 @media (max-width: 480px) {

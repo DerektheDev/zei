@@ -1,20 +1,25 @@
-function autoProgressSlides(){
-	// first_num 	= $('.current_num');
-	// first_slide = $('.current_slide');
-	
-	// next_num   = $(first_num).next('.num');
-	// next_slide = $(first_slide).next('.slide');
+function nextSlide(){
 
-	// first_num.removeClass('current_num');
-	// next_num.addClass('current_num');
-	// first_slide.fadeOut('slow');
-	// next_slide.fadeIn('slow');
+	$('.num.current_num').removeClass('current_num').next('.num').addClass('current_num');
+	$('.slide.current_slide').removeClass('current_slide').fadeOut('slow').next('.slide').addClass('current_slide').fadeIn('slow');
 
-	$(".current_num").removeClass('current_num').next('.num').addClass('current_num');
-	// $(".current_slide").fadeOut();
-	$(".current_slide").removeClass('current_slide').next('.slide').addClass('current_slide');
-	// $(".current_slide").fadeIn();
+	if($('.current_slide').length == 0){
+		$('.slide').first().addClass('current_slide').fadeIn();
+		$('.num').first().addClass('current_num');
+	}
 }
+
+function prevSlide(){
+	$('.num.current_num').removeClass('current_num').prev('.num').addClass('current_num');
+	$('.slide.current_slide').removeClass('current_slide').fadeOut('slow').prev('.slide').addClass('current_slide').fadeIn('slow');
+
+	if($('.current_slide').length == 0){
+		$('.slide').last().addClass('current_slide').fadeIn();
+		$('.num').last().addClass('current_num');
+	}
+}
+
+
 
 $(document).ready(function(){
 
@@ -36,14 +41,22 @@ $(document).ready(function(){
 		$('#slide'+num).fadeIn('slow');
 	});
 
+	// slider arrows
+	$('#left-arrow').click(function(){
+		prevSlide();
+	});
+	$('#right-arrow').click(function(){
+		nextSlide();
+	});
+
+
 	// rotate automatically
-	// setInterval(autoProgressSlides, 1000);
-
-	$('.slide').not('.current_slide').hide();
-
+	// setInterval(, 1000);
 	setInterval(function(){
-		autoProgressSlides()
-		// autoProgressSlides()
-	}, 1000);
+		nextSlide();
+		// alert('hi');
+	}, 5000);
+
+	// $('.slide').not('.current_slide').hide();
 
 });

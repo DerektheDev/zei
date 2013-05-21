@@ -1,10 +1,18 @@
 <?php include('header.php'); ?>
 
-
 <div class="row-fluid pull-left">
   <div class="span12">
     <figure id="slider" class="row-fluid">
       
+      <nav id="">
+        <a id="left-arrow"  class="slider-arrow">
+          <i class='icon-chevron-sign-left'></i>
+        </a>
+        <a id="right-arrow" class="slider-arrow">
+          <i class='icon-chevron-sign-right'></i>
+        </a>
+      </nav>
+
       <div id="num_container" class="pull-right">
         <ul>
           <li id="num1" class="num current_num" num='1'><p>1</p></li>

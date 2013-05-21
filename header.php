@@ -25,9 +25,10 @@
 <style type="text/css">
 img, div, a, input { behavior: url(css/iepngfix.htc) }
 </style>
-<script type='text/javascript' src='<?php echo $root; ?>/js/jquery-1.6.2.min.js'></script>
-<script type='text/javascript' src='<?php echo $root; ?>/js/custom_scripts.js'></script>
-<script type='text/javascript' src='<?php echo $root; ?>/vendor/assets/bootstrap/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='/js/jquery-1.9.1.js'></script>
+<script type='text/javascript' src='/vendor/assets/bootstrap/js/bootstrap.js'></script>
+<script type='text/javascript' src='/js/custom_scripts.js'></script>
+
 
 <script type='text/javascript'>
 
@@ -46,6 +47,10 @@ $(function(){
 
 <link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Unna' rel='stylesheet' type='text/css'>
+<link href='/vendor/assets/font-awesome/css/font-awesome.min.css' rel='stylesheet' type='text/css'>
+<!--[if lte IE 7]>
+  <link href='/vendor/assets/font-awesome/css/font-awesome-ie7.min.css' rel='stylesheet' type='text/css'>
+<![endif]-->
 
 <title>Zeller Electric, Inc. Providing excellent electrical contracting service in Central Illinois with honesty and integrity since 1979</title>
 
