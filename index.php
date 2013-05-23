@@ -59,7 +59,7 @@
   </div>
 </div>
 
-<article id="content_area">
+<article id="content_area" class="index-content">
   <h2>Who we are</h2>  
   <p>
     Zeller Electric, Inc. was founded in 1979 by brothers Jon and David Zeller. Our mission is to provide excellent services with honesty and integrity. Despite all the changes in the construction industry over the years, Zeller Electric, Inc. remains dedicated to its mission, basing success on reputation rather than profit margin.
@@ -70,9 +70,9 @@
   </p>
 </article><!-- content_area --> 
 
-<div class="row-fluid">
-  <div class="span12">
-    <nav id="showcase">
+<nav id="showcase">
+  <div class="row-fluid">
+    <div class="span12">
       <h2 class="visible-desktop">Project Showcase</h2>
       
       <div class="row-fluid">
@@ -113,8 +113,8 @@
           <h5>Data Comm</h5>
         </div>
       </div>
-    </nav>
+    </div>
   </div>
-</div> <!--end showcase-->
+</nav> <!--end showcase-->
 
 <?php include('footer.php'); ?>

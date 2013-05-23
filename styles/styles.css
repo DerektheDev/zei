@@ -147,7 +147,9 @@ body>#container {
 
 .tagline{
 	/*margin-top:50px;*/
-	font-size: 1.5em;
+	font-family: 'Helvetica Neue', Helvetica, sans-serif;
+	font-style: italic;
+	font-size: 1.7em;
 	font-weight: 100;
 	color: #057bb7;
 	text-align: right;
@@ -163,6 +165,10 @@ ul.dropdown {
 	position: relative;
 	z-index: 597;
 	display:block;
+}
+
+ul.desktop-nav{
+
 }
 
 ul.dropdown a:link, ul.dropdown li{
@@ -441,3 +447,30 @@ ul#lists{
 #footer-menu ul li {
 	border-right: 1px solid #000;
 }
+
+
+@media (min-width: 768px) and (max-width: 979px){
+	ul.desktop-nav{
+		width: 80%;
+		float:right;
+	}
+	ul.desktop-nav li{
+		width: 37%;
+		text-align: right;
+	}
+	.index-content{
+		width: 65%;
+		float:left;
+	}
+	#showcase{
+		width: 30%;
+		margin-left:2em;
+		float:left;
+	}
+	#showcase .thumbnail{
+		width: 100%;
+	}
+}
+
+
+

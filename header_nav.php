@@ -7,8 +7,8 @@
     </a>
     <nav class="span7 hidden-phone">
       <div class="row-fluid">
-        <ul class="dropdown pull-right">
-          <li><a href="<?php echo $root; ?>/">Home</a></li>
+        <ul class="dropdown pull-right desktop-nav">
+          <!-- <li><a href="<?php echo $root; ?>/">Home</a></li> -->
           <li>
             Showcase
             <ul>
@@ -20,8 +20,9 @@
             </ul>
           </li>
           <li><a href="<?php echo $root; ?>/services.php">Services</a></li>
+          <br class="visible-tablet" />
           <li><a href="<?php echo $root; ?>/affiliations.php">Affiliations</a></li>
-          <li><a href="<?php echo $root; ?>/contact.php">Contact</a></li>
+          <li><a href="<?php echo $root; ?>/contact.php">Contact Us</a></li>
         </ul>
       </div>
       <div class="row-fluid visible-desktop">
