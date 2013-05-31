@@ -1,6 +1,6 @@
 <?php include('header.php'); ?>
 
-<div class="row-fluid pull-left">
+<div class="row-fluid pull-left hidden-phone">
   <div class="span12">
     <figure id="slider" class="row-fluid">
       
@@ -73,7 +73,7 @@
 <nav id="showcase">
   <div class="row-fluid">
     <div class="span12">
-      <h2 class="visible-desktop">Project Showcase</h2>
+      <h2 class="hidden-tablet">Project Showcase</h2>
       
       <div class="row-fluid">
         <div id="Commercial" class="thumbnail span4">

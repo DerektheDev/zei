@@ -10,10 +10,10 @@
         <ul class="dropdown pull-right desktop-nav">
           <!-- <li><a href="<?php echo $root; ?>/">Home</a></li> -->
           <li>
-            Showcase
-            <ul>
+            <a href="#showcase">Showcase</a>
+            <ul class="top-of-stack">
               <li><a href="<?php echo $root; ?>/showcase/commercial.php">Commercial</a></li>
-              <li><a href="#">Residential</a></li>
+              <li><a href="<?php echo $root; ?>/showcase/residential.php">Residential</a></li>
               <li><a href="<?php echo $root; ?>/showcase/agricultural.php">Agricultural</a></li>
               <li><a href="<?php echo $root; ?>/showcase/design-build.php">Design/Build</a></li>
               <li><a href="#">Data Communication</a></li>
@@ -59,7 +59,7 @@
 
 <nav class="row-fluid visible-phone center">
   <ul id="phone-nav" class="span12">
-    <li><a href="<?php echo $root; ?>/showcase.php">Showcase</a></li>
+    <li><a href="#showcase">Showcase</a></li>
     <li><a href="<?php echo $root; ?>/services.php">Services</a></li>
     <li><a href="<?php echo $root; ?>/affiliations.php">Affiliations</a></li>
   </ul>

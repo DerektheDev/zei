@@ -46,6 +46,10 @@ ul{
 	font-size: 1em;
 }
 
+ul.top-of-stack{
+	z-index: 9999999;
+}
+
 * {
 margin: 0;
 padding: 0;
@@ -381,9 +385,18 @@ ul#phone-nav li a{
 }
 
 .gmap{
+/*
 	position:absolute;
 	margin-top: -400px;
 	margin-left: 475px;
+*/
+}
+.form-all{
+
+}
+.form-all .form-input input,
+.form-all .form-input textarea{
+	width: 100%;
 }
 
 ul#lists{
@@ -449,6 +462,7 @@ ul#lists{
 }
 
 
+/* tablet */
 @media (min-width: 768px) and (max-width: 979px){
 	ul.desktop-nav{
 		width: 80%;
@@ -469,6 +483,7 @@ ul#lists{
 	}
 	#showcase .thumbnail{
 		width: 100%;
+		margin-left: 0;
 	}
 }
 

@@ -27,6 +27,7 @@ img, div, a, input { behavior: url(css/iepngfix.htc) }
 </style>
 <script type='text/javascript' src='/js/jquery-1.9.1.js'></script>
 <script type='text/javascript' src='/vendor/assets/bootstrap/js/bootstrap.js'></script>
+<script type='text/javascript' src='/vendor/assets/jquery-smooth-scroll/jquery.smooth-scroll.min.js'></script>
 <script type='text/javascript' src='/js/custom_scripts.js'></script>
 
 
@@ -41,6 +42,8 @@ $(function(){
     function(){
       $(this).find('h5').removeClass('thumbHovered');
   });
+  
+  $('a').smoothScroll();
 });
 
 </script>

@@ -66,65 +66,68 @@
             font-size: 1em;
           }
         </style>
-      
-        <form class="jotform-form" action="http://www.jotform.com/submit.php" method="post" name="form_12374553456" id="12374553456" accept-charset="utf-8">
-          <input type="hidden" name="formID" value="12374553456" />
-          <div class="form-all">
-            <ul class="form-section">
-              <li class="form-line" id="id_7">
-                <label class="form-label-right" id="label_7" for="input_7">
-                  Name:<!--<span class="form-required">*</span>-->
-                </label>
-                <div id="cid_7" class="form-input">
-                  <input type="text" class="form-textbox validate[required]" id="input_7" name="q7_name" size="55" />
-                </div>
-              </li>
-              <li class="form-line" id="id_4">
-                <label class="form-label-right" id="label_4" for="input_4">
-                  Email:<!--<span class="form-required">*</span>-->
-                </label>
-                <div id="cid_4" class="form-input">
-                  <input type="email" class="form-textbox validate[required, Email]" id="input_4" name="q4_email4" size="55" />
-                </div>
-              </li>
-              <li class="form-line" id="id_6">
-                <label class="form-label-right" id="label_6" for="input_6"> Subject: </label>
-                  <div id="cid_6" class="form-input">
-                    <input type="text" class="form-textbox" id="input_6" name="q6_subject6" size="55" />
-                  </div>
-              </li>
-              <li class="form-line" id="id_5">
-                <label class="form-label-right" id="label_5" for="input_5"> Message: </label>
-                <div id="cid_5" class="form-input">
-                    <textarea id="input_5" class="form-textarea" name="q5_message5" cols="42" rows="6"></textarea>
-                </div>
-              </li>
-              <li class="form-line" id="id_2">
-                <div id="cid_2" class="form-input-wide">
-                  <div style="text-align:right" class="form-buttons-wrapper">
-                    <button id="input_2" type="submit" class="form-submit-button" style="margin-right:120px;">
-                      Submit Form
-                    </button>
-                  </div>
-                </div>
-              </li>
-              <li style="display:none">
-                Should be Empty:
-                <input type="text" name="website" value="" />
-              </li>
-            </ul>
+        <div class="row-fluid">
+          <form class="jotform-form span6" action="http://www.jotform.com/submit.php" method="post" name="form_12374553456" id="12374553456" accept-charset="utf-8">
+            <input type="hidden" name="formID" value="12374553456" />
+            <div class="row-fluid">
+              <div class="form-all span12">
+                <ul class="form-section">
+                  <li class="form-line" id="id_7">
+                    <label class="form-label-right" id="label_7" for="input_7">
+                      Name:<!--<span class="form-required">*</span>-->
+                    </label>
+                    <div id="cid_7" class="form-input">
+                      <input type="text" class="form-textbox validate[required]" id="input_7" name="q7_name" size="55" />
+                    </div>
+                  </li>
+                  <li class="form-line" id="id_4">
+                    <label class="form-label-right" id="label_4" for="input_4">
+                      Email:<!--<span class="form-required">*</span>-->
+                    </label>
+                    <div id="cid_4" class="form-input">
+                      <input type="email" class="form-textbox validate[required, Email]" id="input_4" name="q4_email4" size="55" />
+                    </div>
+                  </li>
+                  <li class="form-line" id="id_6">
+                    <label class="form-label-right" id="label_6" for="input_6"> Subject: </label>
+                      <div id="cid_6" class="form-input">
+                        <input type="text" class="form-textbox" id="input_6" name="q6_subject6" size="55" />
+                      </div>
+                  </li>
+                  <li class="form-line" id="id_5">
+                    <label class="form-label-right" id="label_5" for="input_5"> Message: </label>
+                    <div id="cid_5" class="form-input">
+                        <textarea id="input_5" class="form-textarea" name="q5_message5" cols="56" rows="6"></textarea>
+                    </div>
+                  </li>
+                  <li class="form-line" id="id_2">
+                    <div id="cid_2" class="form-input-wide">
+                      <div style="text-align:right" class="form-buttons-wrapper">
+                        <button id="input_2" type="submit" class="form-submit-button" style="left:120px;">
+                          Submit Form
+                        </button>
+                      </div>
+                    </div>
+                  </li>
+                  <li style="display:none">
+                    Should be Empty:
+                    <input type="text" name="website" value="" />
+                  </li>
+                </ul>
+              </div>
+              <input type="hidden" id="simple_spc" name="simple_spc" value="12374553456" />
+              <script type="text/javascript">
+                document.getElementById("si" + "mple" + "_spc").value = "12374553456-12374553456";
+              </script>
+            </form>
           </div>
-          <input type="hidden" id="simple_spc" name="simple_spc" value="12374553456" />
-          <script type="text/javascript">
-            document.getElementById("si" + "mple" + "_spc").value = "12374553456-12374553456";
-          </script>
-        </form>
 
-        <!-- end JOTFORM -->
+          <!-- end JOTFORM -->
 
-        <!-- Google Map -->
-        <div class="gmap">
-          <iframe class="span12" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?q=640+W.+Jackson+St.,+Morton,+IL+61550&amp;ie=UTF8&amp;hq=&amp;hnear=640+W+Jackson+St,+Morton,+Illinois+61550&amp;gl=us&amp;vpsrc=6&amp;ll=40.623464,-89.465876&amp;spn=0.026058,0.034246&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?q=640+W.+Jackson+St.,+Morton,+IL+61550&amp;ie=UTF8&amp;hq=&amp;hnear=640+W+Jackson+St,+Morton,+Illinois+61550&amp;gl=us&amp;vpsrc=6&amp;ll=40.623464,-89.465876&amp;spn=0.026058,0.034246&amp;z=14&amp;iwloc=A&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+          <!-- Google Map -->
+          <div class="gmap span6">
+            <iframe class="span12" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?q=640+W.+Jackson+St.,+Morton,+IL+61550&amp;ie=UTF8&amp;hq=&amp;hnear=640+W+Jackson+St,+Morton,+Illinois+61550&amp;gl=us&amp;vpsrc=6&amp;ll=40.623464,-89.465876&amp;spn=0.026058,0.034246&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?q=640+W.+Jackson+St.,+Morton,+IL+61550&amp;ie=UTF8&amp;hq=&amp;hnear=640+W+Jackson+St,+Morton,+Illinois+61550&amp;gl=us&amp;vpsrc=6&amp;ll=40.623464,-89.465876&amp;spn=0.026058,0.034246&amp;z=14&amp;iwloc=A&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+          </div>
         </div>
       </div><!-- end contact -->
     </div><!-- end white_content -->

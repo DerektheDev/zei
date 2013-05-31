@@ -4,6 +4,7 @@
 	/*width: 920px;*/
 	/*height: 500px;*/
 	float: left;
+	z-index: 1;
 }
 
 #slider #viewport{
