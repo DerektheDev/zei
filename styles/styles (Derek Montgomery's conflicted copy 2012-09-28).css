@@ -1,0 +1,282 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h1, h2, h3, h4, h5, h6, p {
+	margin-top: 0;
+	padding: 0;
+	color: #000;
+}
+
+p{
+	font-family: 'Unna', Georgia, serif;
+	font-size: small;
+}
+
+h2{
+	padding-bottom: 10px;
+	color:#00477F;
+}
+
+h3{
+	line-height: 1.5em;
+	color:#00477F;
+}
+
+h4{
+	color:#00477F;
+	font-size: medium;
+}
+
+a{
+	text-decoration: none;
+}
+
+a:visited {
+	color: #000;
+}
+
+ul{
+	list-style-image: none;
+	list-style-type: none;
+	text-decoration: none;
+	font-family: 'Unna', Georgia, serif;
+	font-size: small;
+}
+
+* {
+margin: 0;
+padding: 0;
+}
+
+.clear:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+
+body {
+	background: url('../images/bk.jpg') -350px -50px;
+	text-align: center;
+	font: 13px/1.5 "Lucida Grande", Lucida, Helvetica, sans-serif;
+	*position: absolute;
+}
+
+#container {
+	width: 960px;
+	_width: 85%;
+	max-width: 1260px;
+	min-width: 780px;
+	margin: 20px auto;
+	min-height: 100%;
+	height:  auto !important;
+	height: 100%;
+	voice-family: "\"}\"";
+	voice-family: inherit;
+	height: auto;
+	position: relative;
+	text-align: left;
+	-moz-border-radius: 10px; -webkit-border-radius: 10px;
+	-moz-box-shadow: 2px 2px 1px #ccc;
+	-webkit-box-shadow: 2px 2px 1px #ccc0;
+	box-shadow: 2px 2px 1px #ccc;
+	background-color: rgba(255, 255, 255, 0.95);
+}
+
+html>body #container {
+    height: 100%;
+	}
+
+body>#container {
+	height: auto; 
+	min-height: 100%;
+}
+
+
+#header {
+	height:  100px;
+	padding: 0px 0px 5px 0px;
+	*top:-50px;
+	overflow: hidden;
+}
+
+	#header h1 a {
+		position: absolute;
+/*		*position: relative;*/
+		top: 5px;
+		display: block;
+		width: 960px;
+		_width: 940px;
+		height: 135px;
+		float: left;
+		background: url('../images/header.gif') no-repeat;
+		text-indent: -9999px;
+	}
+
+#menu{
+	position:absolute;
+	float: right;
+	right: 10px;
+	top: 35px;
+}
+
+ul.dropdown {
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	list-style-image: none;
+	list-style-type: none;
+	position: relative;
+	z-index: 597;
+}
+
+ul.dropdown a:link{
+	color: #000;
+	text-decoration: none;
+	text-transform: uppercase;
+	font: bold small Helvetica, sans-serif;
+	font-size:x-small;
+}
+
+ul.dropdown a:hover{
+	font-family:Helvetica, sans-serif;
+	color: #00477F;
+	text-decoration: none;
+	text-shadow: 2px 2px 1px #ccc;
+}
+
+ul.dropdown ul{
+	background-color: #fff;
+	width: 150px;
+	padding: 0; margin: 0;
+	list-style-type: none;
+	list-style-image: none;
+	position: absolute;
+	visibility: hidden;
+	z-index: 598;
+	top: 100%;
+	left: 0;
+	-moz-border-radius: 5px; -webkit-border-radius: 5px;
+}
+
+ul.dropdown li{
+	line-height: 1.3em;
+	display: inline-block;
+/*	vertical-align: middle;
+	float: left;*/
+	padding: 7px 15px 7px 7px;
+	margin: 0;
+	list-style-type: none;
+	list-style-image: none;
+}
+
+ul.dropdown li:hover{
+/*	border-bottom: 2px dotted #00477F;*/
+	position: relative;
+	z-index: 599;
+}
+
+ul.dropdown li:hover>ul{
+	visibility: visible;
+}
+
+ul.dropdown ul li{
+	float: none;
+	border: none;
+	}
+	
+
+#content {
+/*	padding: 10px 0;*/
+	margin: auto;
+	text-align: left;
+}
+
+#slideshow{
+	margin:20px;
+	height: 350px;
+	background-color: blue;
+}
+
+#mainimage{
+	margin:20px;
+	height: 175px;
+	background-color: blue;
+}
+
+#about{
+	margin:20px;
+}
+
+#showcase{
+	background-color: red;
+	margin:20px;
+	height:225px;
+	padding-bottom:25px;
+}
+
+#Commercial.thumbnail{
+	margin-left:12px;
+}
+
+#Data-comm.thumbnail{
+	margin-right: 0;
+}
+
+.clearboth {
+	clear: both;
+}
+
+.thumbnail {
+  margin:0 5px 15px 0;
+  float:left;
+  width: 175px;
+  height: 175px;
+  text-align:center;
+  }
+  
+.thumbnail a:hover img {
+  border:2px solid #00477F;
+  }
+  
+/*.desc
+  {
+  text-align:center;
+  font-weight:normal;
+  width:120px;
+  margin:2px;
+  }*/
+  
+ul#lists{
+	text-indent: 15px;
+}
+
+#footer{
+	margin:20px;
+	border-top: 2px solid #f2f2f2;
+}
+
+#footer-menu p{
+	clear:left;
+	text-align: right;
+	padding:10px;
+	font-family: Georgia, serif;
+	font-size: small;
+	line-height: 1em;
+	}
+
+#footer-menu a:link{
+	color: #000;
+	text-decoration: none;
+	font:Georgia;
+	font-size:x-small;
+	display: inline;
+	float: right;
+	padding:10px;
+}
+
+#footer-menu li{
+	list-style-image: none;
+	list-style-type: none;
+	display: inline-block;
+	float: right;
+}
