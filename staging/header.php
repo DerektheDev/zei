@@ -21,7 +21,7 @@
 <link rel="stylesheet" href="<?php echo $root; ?>/vendor/assets/bootstrap/css/bootstrap.min.css" type="text/css" />
 <link rel="stylesheet" href="<?php echo $root; ?>/vendor/assets/bootstrap/css/bootstrap-responsive.min.css" type="text/css" />
 <link rel="stylesheet" href="<?php echo $root; ?>/styles/styles.css" type="text/css" />
-<link rel="stylesheet" href="<?php echo $root; ?>/styles/slider-styles.css" type="text/css" />
+<!--<link rel="stylesheet" href="<?php echo $root; ?>/styles/slider-styles.css" type="text/css" />-->
 
 <style type="text/css">
 img, div, a, input { behavior: url(css/iepngfix.htc) }

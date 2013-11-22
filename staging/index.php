@@ -73,10 +73,10 @@
 <div id="myCarousel" class="carousel slide">
   <div class="carousel-inner">
     <div class="item active">
-		<img src="images/fourseasons500.jpg" alt="Four Seasons" />      
+		<img src="images/fourseasons500.jpg" alt="Four Seasons II" />      
 		<div class="container">
         <div class="carousel-caption">
-          <p class="lead">Four Seaons II</p>
+          <p class="lead">Four Seasons II</p>
         </div>
       </div>
     </div>
@@ -97,8 +97,8 @@
       </div>
     </div>
   </div>
-  <a class="left carousel-control" href="#myCarousel" data-slide="prev">&lsaquo;</a>
-  <a class="right carousel-control" href="#myCarousel" data-slide="next">&rsaquo;</a>
+  <a href="" data-slide="prev"><i class="fa fa-chevron-circle-left"></i></a>
+  <a href="" data-slide="next"><i class="fa fa-chevron-circle-right"></i></a>
 </div>
 </div>
 </div><!-- /.carousel -->

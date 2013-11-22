@@ -1,7 +1,8 @@
 
 #slider{
 	/*margin:20px;*/
-	/*width: 920px;*/
+	max-width: 100%;
+	width: 920px;
 	/*height: 500px;*/
 	float: left;
 	z-index: 1;
@@ -75,7 +76,7 @@
 	font-size: 3em;
 	color:white;
 	position:absolute;
-	z-index: 99999;
+	z-index: 99998;
 	display:block;
 	top:0em;		
 	margin-top: 22%;	
