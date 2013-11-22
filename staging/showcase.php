@@ -1,11 +1,11 @@
 <?php include('header.php'); ?>
 <div class="container-fluid">
 
+<div class="span1">
+&nbsp;
+</div>
 <section>
-	<div class="span1">
-	&nbsp;
-	</div>
-	
+
 	<article class="row-fluid">
 		<header id="content_area" class="span10">
 			<div class="padded">
@@ -19,10 +19,10 @@
 	</div>
 </section>
 
+<div class="span1">
+&nbsp;
+</div>
 <section class="row-fluid"> <!--Commercial-->
-	<div class="span1">
-	&nbsp;
-	</div>
 	<header id="content_area" class="span10">
 		<div class="padded">
 			<h3>Showcase - Commercial</h3>
