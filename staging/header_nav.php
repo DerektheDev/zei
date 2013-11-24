@@ -63,5 +63,6 @@
     <li><a href="#showcase">Showcase</a></li>
     <li><a href="<?php echo $root; ?>/about.php">About Us</a></li>
     <li><a href="<?php echo $root; ?>/affiliations.php">Affiliations</a></li>
+    <li><a href="<?php echo $root; ?>/contact.php">Contact Us</a></li>	
   </ul>
 </nav>
