@@ -68,7 +68,7 @@
 		<ul class="thumbnails">
 			<li class="col-sm-6 span3">
 				<div class="thumbnail">
-					<img src="http://www.placehold.it/180x220" alt="Jon Zeller">
+					<img src="images/portrait-jon-zeller.jpg" alt="Jon Zeller">
 					<div class="caption">
 						<h4>Jon Zeller</h4>
 						<h5>President/Electrical Contractor</h5>
@@ -93,7 +93,7 @@
 			<ul class="thumbnails">
 				<li class="col-sm-6 span3">
 					<div class="thumbnail">
-						<img src="http://www.placehold.it/180x220" alt="Jon Zeller">
+						<img src="images/portrait-david-zeller.jpg" alt="David Zeller">
 						<div class="caption">
 							<h4>David A. Zeller</h4>
 							<h5>Vice President/Head Estimator</h5>
@@ -119,7 +119,7 @@
 		<ul class="thumbnails">
 			<li class="col-sm-6 span3">
 				<div class="thumbnail">
-					<img src="http://www.placehold.it/180x220" alt="Jon Zeller">
+					<img src="images/portrait-seth-zeller.jpg" alt="Seth Zeller">
 					<div class="caption">
 						<h4>Seth Zeller</h4>
 						<h5>Estimator, Project Manager, Owner</h5>
@@ -145,7 +145,7 @@
 		<ul class="thumbnails">
 			<li class="col-sm-6 span3">
 				<div class="thumbnail">
-					<img src="http://www.placehold.it/180x220" alt="Jon Zeller">
+					<img src="images/portrait-andy-zeller.jpg" alt="Andy Zeller">
 					<div class="caption">
 						<h4>Andy Zeller</h4>
 						<h5>Peoria Area Superintendent</h5>
@@ -170,7 +170,7 @@
 		<ul class="thumbnails">
 			<li class="col-sm-6 span3">
 				<div class="thumbnail">
-					<img src="http://www.placehold.it/180x220" alt="Jon Zeller">
+					<img src="images/portrait-brian-rieke.jpg" alt="Brian Rieke">
 					<div class="caption">
 						<h4>Brian Rieke</h4>
 						<h5>Principal Estimator/Project Manager</h5>
@@ -196,7 +196,7 @@
 		<ul class="thumbnails">
 			<li class="col-sm-6 span3">
 				<div class="thumbnail">
-					<img src="http://www.placehold.it/180x220" alt="Jon Zeller">
+					<img src="images/portrait-jordan-krone.jpg" alt="Jordan Krone">
 					<div class="caption">
 						<h4>Jordan Krone</h4>
 						<h5>Assistant Estimator</h5>
@@ -222,7 +222,7 @@
 		<ul class="thumbnails">
 			<li class="col-sm-6 span3">
 				<div class="thumbnail">
-					<img src="http://www.placehold.it/180x220" alt="Jon Zeller">
+					<img src="images/portrait-brian-zeller.jpg" alt="Brian Zeller">
 					<div class="caption">
 						<h4>Brian Zeller</h4>
 						<h5>Office Manager</h5>
@@ -248,7 +248,7 @@
 		<ul class="thumbnails">
 			<li class="col-sm-6 span3">
 				<div class="thumbnail">
-					<img src="http://www.placehold.it/180x220" alt="Jon Zeller">
+					<img src="images/portrait-jesse-zeller.jpg" alt="Jesse Zeller">
 					<div class="caption">
 						<h4>Jesse Zeller</h4>
 						<h5>Project Foreman</h5>
@@ -274,7 +274,7 @@
 		<ul class="thumbnails">
 			<li class="col-sm-6 span3">
 				<div class="thumbnail">
-					<img src="http://www.placehold.it/180x220" alt="Jon Zeller">
+					<img src="images/portrait-luke-zeller.jpg" alt="Luke Zeller">
 					<div class="caption">
 						<h4>Luke Zeller</h4>
 						<h5>Area Superintendent</h5>
@@ -301,7 +301,7 @@
 		<ul class="thumbnails">
 			<li class="col-sm-6 span3">
 				<div class="thumbnail">
-					<img src="http://www.placehold.it/180x220" alt="Jon Zeller">
+					<img src="images/portrait-jean-hughes.jpg" alt="Jean Hughes">
 					<div class="caption">
 						<h4>Jean Hughes</h4>
 						<h5>Secretary/Accounts Payable</h5>
@@ -327,7 +327,7 @@
 		<ul class="thumbnails">
 			<li class="col-sm-6 span3">
 				<div class="thumbnail">
-					<img src="http://www.placehold.it/180x220" alt="Jon Zeller">
+					<img src="images/portrait-joe-carey.jpg" alt="Joe Carey">
 					<div class="caption">
 						<h4>Joe Carey</h4>
 						<h5>Systems Division Leader</h5>
@@ -350,5 +350,5 @@
 
 </div>
 
-</div>
+
 <?php include('footer.php'); ?>
