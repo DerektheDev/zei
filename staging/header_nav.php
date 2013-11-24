@@ -61,7 +61,7 @@
 <nav class="row-fluid visible-phone center">
   <ul id="phone-nav" class="span12">
     <li><a href="#showcase">Showcase</a></li>
-    <li><a href="<?php echo $root; ?>/services.php">About Us</a></li>
+    <li><a href="<?php echo $root; ?>/about.php">About Us</a></li>
     <li><a href="<?php echo $root; ?>/affiliations.php">Affiliations</a></li>
   </ul>
 </nav>
