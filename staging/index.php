@@ -16,10 +16,10 @@
           </div>
         </div>
         <div class="item">
-    		<img src="images/hccedcenter500.jpg" alt="HCC Community Education Center" />     
+    		<img src="images/hccedcenter500.jpg" alt="Heartland Community College Community Education Center" />     
     		 <div class="container">
             <div class="carousel-caption">
-              <p class="lead">HCC Community Education Center</p>
+              <p class="lead">Heartland Community College Community Education Center</p>
             </div>
           </div>
         </div>
