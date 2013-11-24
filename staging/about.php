@@ -112,6 +112,32 @@
 		  	</div>
 	  	</div>
 	  	
+		<div class="row-fluid">
+			<div class="span1">
+			&nbsp;
+			</div>
+			<ul class="thumbnails">
+				<li class="col-sm-6 span3">
+					<div class="thumbnail">
+						<img src="images/portrait-brian-rieke.jpg" alt="Brian Rieke">
+						<div class="caption">
+							<h4>Brian Rieke</h4>
+							<h5>Principal Estimator/Project Manager</h5>
+						</div>
+					</div>
+				</li>
+	
+				<li class="col-sm-6 span7">
+					<p class="bio-text">Brian has nearly 25 years of experience in the electrical industry—and he’s been with Zeller Electric for the duration. He holds an AAS in electronic technologies and is a graduate of the IBEW/NECA Joint Apprenticeship Training Committee program. Brian’s special interests include green building practices and technologies, and he is a USGBC LEED Green Associate. He is also a member of IBEW L.U. #34.</p>
+					
+					<p class="bio-text">Brian’s interests include shooting sports, military jeep restoration, flying radio-controlled vehicles, and reading self-improvement topics and Bible studies. (He’s also a self-admitted “hack” golfer.) Brian is active in his church and has been a firefighter with the Eureka-Goodfield Fire Protection District for 14 years. He and his wife, Lisa, have been married for 23 years. They have three grown children. </p>
+				</li>
+				</ul>
+			<div class="span1">
+			&nbsp;
+			</div>
+		  </div>	  	
+	  	
 	<div class="row-fluid">
 		<div class="span1">
 		&nbsp;
@@ -145,6 +171,33 @@
 		<ul class="thumbnails">
 			<li class="col-sm-6 span3">
 				<div class="thumbnail">
+					<img src="images/portrait-luke-zeller.jpg" alt="Luke Zeller">
+					<div class="caption">
+						<h4>Luke Zeller</h4>
+						<h5>Area Superintendent</h5>
+					</div>
+				</div>
+			</li>
+
+			<li class="col-sm-6 span7">
+				<p class="bio-text">Luke has been a valued team member for 16 years. He plays an important role as he provides project estimates, ensures that workers are scheduled for appropriate duties, and oversees materials and equipment in the Bloomington area. He has completed five years of electrical apprenticeship in the IBEW/NECA apprenticeship program.</p>
+				
+				<p class="bio-text">Luke has been married to his wife, Ashley for nearly 12 years, and he keeps busy with family activities that focus on his four children (ranging from 10 months to 9 years). He enjoys camping, golfing, and is an avid mountain biker. Luke and his family attend Eastview Church in Bloomington. 
+				</p>
+			</li>
+			</ul>
+		<div class="span1">
+		&nbsp;
+		</div>
+	  </div>
+	  
+	<div class="row-fluid">
+		<div class="span1">
+		&nbsp;
+		</div>
+		<ul class="thumbnails">
+			<li class="col-sm-6 span3">
+				<div class="thumbnail">
 					<img src="images/portrait-andy-zeller.jpg" alt="Andy Zeller">
 					<div class="caption">
 						<h4>Andy Zeller</h4>
@@ -161,8 +214,8 @@
 		<div class="span1">
 		&nbsp;
 		</div>
-	  </div>
-	  
+	  </div> 	
+
 	<div class="row-fluid">
 		<div class="span1">
 		&nbsp;
@@ -170,24 +223,50 @@
 		<ul class="thumbnails">
 			<li class="col-sm-6 span3">
 				<div class="thumbnail">
-					<img src="images/portrait-brian-rieke.jpg" alt="Brian Rieke">
+					<img src="images/portrait-jesse-zeller.jpg" alt="Jesse Zeller">
 					<div class="caption">
-						<h4>Brian Rieke</h4>
-						<h5>Principal Estimator/Project Manager</h5>
+						<h4>Jesse Zeller</h4>
+						<h5>Project Foreman</h5>
 					</div>
 				</div>
 			</li>
 
 			<li class="col-sm-6 span7">
-				<p class="bio-text">Brian has nearly 25 years of experience in the electrical industry—and he’s been with Zeller Electric for the duration. He holds an AAS in electronic technologies and is a graduate of the IBEW/NECA Joint Apprenticeship Training Committee program. Brian’s special interests include green building practices and technologies, and he is a USGBC LEED Green Associate. He is also a member of IBEW L.U. #34.</p>
+				<p class="bio-text">Jesse is a 15-year member of Zeller Electric’s team. He coordinates labor and materials for large-scale projects, often getting involved directly as an experienced hands-on electrician. He is a member of Peoria Local #34 NJATC and IBEW Local #34, and is a CIEL board member.</p>
 				
-				<p class="bio-text">Brian’s interests include shooting sports, military jeep restoration, flying radio-controlled vehicles, and reading self-improvement topics and Bible studies. (He’s also a self-admitted “hack” golfer.) Brian is active in his church and has been a firefighter with the Eureka-Goodfield Fire Protection District for 14 years. He and his wife, Lisa, have been married for 23 years. They have three grown children. </p>
+				<p class="bio-text">When off-duty, Jesse enjoys family activities with his wife, Suzanne, and their two children, Keely (7) and Meesha (4). He coaches his daughters’ sports teams and is an active hunter and fisherman. Jesse’s family attends New Castle Bible Church in Mackinaw. </p>
 			</li>
 			</ul>
 		<div class="span1">
 		&nbsp;
 		</div>
-	  </div>	 	  	  	
+	  </div>
+
+	<div class="row-fluid">
+		<div class="span1">
+		&nbsp;
+		</div>
+		<ul class="thumbnails">
+			<li class="col-sm-6 span3">
+				<div class="thumbnail">
+					<img src="images/portrait-joe-carey.jpg" alt="Joe Carey">
+					<div class="caption">
+						<h4>Joe Carey</h4>
+						<h5>Systems Division Leader</h5>
+					</div>
+				</div>
+			</li>
+
+			<li class="col-sm-6 span7">
+				<p class="bio-text">With 12 years experience in the field, Joe brings a great deal of knowledge to our systems group. He handles estimating and design, and his project management skills include working with the team to troubleshoot, install, and certify data communication projects. Joe holds an MBA and is an RCDD (Registered Communications Distribution Designer).</p>
+				 
+				<p class="bio-text">Joe enjoys outdoor activities and riding his motorcycle. He also looks forward to spending time with his three girls.</p>
+			</li>
+			</ul>
+		<div class="span1">
+		&nbsp;
+		</div>
+	  </div>	  
 
 	<div class="row-fluid">
 		<div class="span1">
@@ -248,59 +327,6 @@
 		<ul class="thumbnails">
 			<li class="col-sm-6 span3">
 				<div class="thumbnail">
-					<img src="images/portrait-jesse-zeller.jpg" alt="Jesse Zeller">
-					<div class="caption">
-						<h4>Jesse Zeller</h4>
-						<h5>Project Foreman</h5>
-					</div>
-				</div>
-			</li>
-
-			<li class="col-sm-6 span7">
-				<p class="bio-text">Jesse is a 15-year member of Zeller Electric’s team. He coordinates labor and materials for large-scale projects, often getting involved directly as an experienced hands-on electrician. He is a member of Peoria Local #34 NJATC and IBEW Local #34, and is a CIEL board member.</p>
-				
-				<p class="bio-text">When off-duty, Jesse enjoys family activities with his wife, Suzanne, and their two children, Keely (7) and Meesha (4). He coaches his daughters’ sports teams and is an active hunter and fisherman. Jesse’s family attends New Castle Bible Church in Mackinaw. </p>
-			</li>
-			</ul>
-		<div class="span1">
-		&nbsp;
-		</div>
-	  </div>
-
-	<div class="row-fluid">
-		<div class="span1">
-		&nbsp;
-		</div>
-		<ul class="thumbnails">
-			<li class="col-sm-6 span3">
-				<div class="thumbnail">
-					<img src="images/portrait-luke-zeller.jpg" alt="Luke Zeller">
-					<div class="caption">
-						<h4>Luke Zeller</h4>
-						<h5>Area Superintendent</h5>
-					</div>
-				</div>
-			</li>
-
-			<li class="col-sm-6 span7">
-				<p class="bio-text">Luke has been a valued team member for 16 years. He plays an important role as he provides project estimates, ensures that workers are scheduled for appropriate duties, and oversees materials and equipment in the Bloomington area. He has completed five years of electrical apprenticeship in the IBEW/NECA apprenticeship program.</p>
-				
-				<p class="bio-text">Luke has been married to his wife, Ashley for nearly 12 years, and he keeps busy with family activities that focus on his four children (ranging from 10 months to 9 years). He enjoys camping, golfing, and is an avid mountain biker. Luke and his family attend Eastview Church in Bloomington. 
-				</p>
-			</li>
-			</ul>
-		<div class="span1">
-		&nbsp;
-		</div>
-	  </div>
-
-	<div class="row-fluid">
-		<div class="span1">
-		&nbsp;
-		</div>
-		<ul class="thumbnails">
-			<li class="col-sm-6 span3">
-				<div class="thumbnail">
 					<img src="images/portrait-jean-hughes.jpg" alt="Jean Hughes">
 					<div class="caption">
 						<h4>Jean Hughes</h4>
@@ -319,33 +345,6 @@
 		&nbsp;
 		</div>
 	  </div>
-
-	<div class="row-fluid">
-		<div class="span1">
-		&nbsp;
-		</div>
-		<ul class="thumbnails">
-			<li class="col-sm-6 span3">
-				<div class="thumbnail">
-					<img src="images/portrait-joe-carey.jpg" alt="Joe Carey">
-					<div class="caption">
-						<h4>Joe Carey</h4>
-						<h5>Systems Division Leader</h5>
-					</div>
-				</div>
-			</li>
-
-			<li class="col-sm-6 span7">
-				<p class="bio-text">With 12 years experience in the field, Joe brings a great deal of knowledge to our systems group. He handles estimating and design, and his project management skills include working with the team to troubleshoot, install, and certify data communication projects. Joe holds an MBA and is an RCDD (Registered Communications Distribution Designer).</p>
-				 
-				<p class="bio-text">Joe enjoys outdoor activities and riding his motorcycle. He also looks forward to spending time with his three girls.</p>
-			</li>
-			</ul>
-		<div class="span1">
-		&nbsp;
-		</div>
-	  </div>
-	  
 	</section>
 
 </div>
