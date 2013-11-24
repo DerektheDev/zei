@@ -46,7 +46,7 @@
 </div>
 <?php if (strpos($_SERVER['SCRIPT_NAME'], 'index.php') !== false) { ?>
   <br />
-  <div class="row-fluid center visible-phone">
+  <div class="row-fluid center visible-phone" id="call-us-cta">
     <a href="tel:3092632353"><i class="fa fa-phone-square fa-5x"></i></a>
   </div>
   <aside class="visible-phone center" id="call-us-cta">
