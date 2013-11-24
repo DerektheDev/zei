@@ -49,7 +49,16 @@
 <div class="row-fluid">
 
   <article id="content_area" class="index-content span10 offset1">
-    <h2>Trusted advisors—superior service.</h2>  
+    <h2 class="visible-desktop">Trusted advisors—superior service.</h2>  
+    
+    <div class="hidden-desktop">
+      <aside class="span12 center tagline">
+        <h3 style="text-align: left;">Trusted advisors &ndash; <br class="visible-phone" />
+			superior service.</h3>
+      </aside>
+      
+    </div>
+    
     <p class="body-text">Zeller Electric is a local, family-owned company that has served Central Illinois’ electrical service, design, and installation needs for 35 years. Our team works hard to stay current on advances in the industry through ongoing training and educational opportunities, so our customers directly benefit from the best innovative and customized solutions. But we don’t just deliver practical and efficient systems—we also provide the quality service our customers deserve.</p> 
     <p class="body-text">Dedication, honesty, and integrity are traits that are important to us, and we look forward to sharing these values—and our expertise—with you. Call us today for all your electrical contracting needs!</p>
     <hr class="hr-style" />
