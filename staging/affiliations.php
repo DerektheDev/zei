@@ -52,8 +52,12 @@
           <div class="row-fluid affiliate_thumbnail">
             <img src="images/cboe.jpg" />
           </div>
-        </a class="affiliate_thumbnail">
-        <img src="images/actonenergy.jpg" class="span4" />
+          </a>
+         <a href="http://www.actonenergy.com/state-selection?rq=/" target="_blank" class="span4"> 
+        <div class="row-fluid affiliate_thumbnail">
+        <img src="images/actonenergy.jpg" />
+        </div>
+        </a>
       </div>
     </div>
       
