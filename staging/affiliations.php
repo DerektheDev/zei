@@ -11,7 +11,7 @@
 <div class="row-fluid">
   <article id="content_area" class="span12">
     <h2>Affiliations</h2>  
-    <p>ZEI has many valued partners and works with many different organizations. We are also members of both the <a href="http://www.mcleancochamber.org/" target="_blank">McLean County Chamber of Commerce</a>, and the <a href="http://www.mortonchamber.org/" target="_blank">Morton Chamber of Commerce</a>.</p>
+    <p class="body-text">ZEI has many valued partners and works with many different organizations. We are also members of both the <a href="http://www.mortonchamber.org/" target="_blank">Morton Chamber of Commerce</a> and the <a href="http://www.mcleancochamber.org/" target="_blank">McLean County Chamber of Commerce</a>.</p>
 
     <br />
 
@@ -56,8 +56,8 @@
       
         
     <section class="columns">
-      <h4>Supplier and Manufacturer Links</h4>
-      <br /><br />
+      <h2 class="visible-desktop">Supplier and Manufacturer Links</h2>
+      <h2 class="hidden-desktop visible-phone">Supplier and <br />Manufacturer Links</h2>
       <div id="lists" class="row-fluid">
         <ul class="span4">
           <li><a href="http://www.wesco.com/" target="_blank">WESCO</a></li>
