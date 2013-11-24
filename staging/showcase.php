@@ -73,11 +73,13 @@
 				</div>
 				<div class="showcase_entry_text span9">
 				<h4>Additional job listings</h4>
-				<h5>Gourmet Express – Gridley, IL</h5>
-				<h5>ISU Alumni Center – Normal, IL</h5>
-				<h5>Peoria Air National Guard – Peoria, IL</h5>
-				<h5>The Manna Group – Gridley, IL</h5>
-				<h5>WTVP – Peoria, IL</h5>
+				<ul>
+				<li>Gourmet Express – Gridley, IL</li>
+				<li>ISU Alumni Center – Normal, IL</li>
+				<li>Peoria Air National Guard – Peoria, IL</li>
+				<li>The Manna Group – Gridley, IL</li>
+				<li>WTVP – Peoria, IL</li>
+				</ul>
 				</div>
 			</div>
 		</div>
