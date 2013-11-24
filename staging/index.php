@@ -44,45 +44,6 @@
 <<<<<<< HEAD
 </div>-->
 
-<!-- Carousel
-================================================== -->
-<div class="row-fluid pull-right hidden-phone">
-  <div class="span12">
-<div id="myCarousel" class="carousel slide">
-  <div class="carousel-inner">
-    <div class="item active">
-		<img src="images/fourseasons500.jpg" alt="Four Seasons II" />      
-		<div class="container">
-        <div class="carousel-caption">
-          <p class="lead">Four Seasons II</p>
-        </div>
-      </div>
-    </div>
-    <div class="item">
-		<img src="images/hccedcenter500.jpg" alt="HCC Community Education Center" />     
-		 <div class="container">
-        <div class="carousel-caption">
-          <p class="lead">HCC Community Education Center</p>
-        </div>
-      </div>
-    </div>
-    <div class="item">
-      <img src="images/bcc500.jpg" alt="Bloomington Country Club" title="Bloomington Country Club 1st Floor Renovations" />
-      <div class="container">
-        <div class="carousel-caption">
-          <p class="lead">Bloomington Country Club</p>
-        </div>
-      </div>
-    </div>
-  </div>
-  <a href="" data-slide="prev"><i class="fa fa-chevron-circle-left"></i></a>
-  <a href="" data-slide="next"><i class="fa fa-chevron-circle-right"></i></a>
-</div>
-</div>
-=======
->>>>>>> caa463472e0d67cd2c6d8b5cbf478dfeba80ea78
-</div><!-- /.carousel -->
-
 <div class="container-fluid">
 
 <div class="row-fluid">
