@@ -21,43 +21,26 @@
 <link rel="stylesheet" href="<?php echo $root; ?>/vendor/assets/bootstrap/css/bootstrap.min.css" type="text/css" />
 <link rel="stylesheet" href="<?php echo $root; ?>/vendor/assets/bootstrap/css/bootstrap-responsive.min.css" type="text/css" />
 <link rel="stylesheet" href="<?php echo $root; ?>/styles/styles.css" type="text/css" />
+<<<<<<< HEAD
 <!--<link rel="stylesheet" href="<?php echo $root; ?>/styles/slider-styles.css" type="text/css" />-->
+=======
+<link rel="stylesheet" href="<?php echo $root; ?>/styles/slider-styles.css" type="text/css" />
+>>>>>>> caa463472e0d67cd2c6d8b5cbf478dfeba80ea78
 
 <style type="text/css">
 img, div, a, input { behavior: url(css/iepngfix.htc) }
 </style>
-<script type='text/javascript' src='/js/jquery-1.9.1.js'></script>
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js'></script>
 <script type='text/javascript' src='/vendor/assets/bootstrap/js/bootstrap.js'></script>
 <script type='text/javascript' src='/vendor/assets/jquery-smooth-scroll/jquery.smooth-scroll.min.js'></script>
 <script type='text/javascript' src='/js/custom_scripts.js'></script>
 
-
-<script type='text/javascript'>
-
-$(function(){
-  
-  $('.thumbnail').hover(
-    function(){
-      $(this).find('h5').addClass('thumbHovered');
-    },
-    function(){
-      $(this).find('h5').removeClass('thumbHovered');
-  });
-  
-  $('a').smoothScroll();
-});
-
-</script>
-
 <link href='http://fonts.googleapis.com/css?family=Oxygen:400,300,700' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Unna' rel='stylesheet' type='text/css'>
-<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
-<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-<link href='/vendor/assets/font-awesome/css/font-awesome.min.css' rel='stylesheet' type='text/css'>
-<!--[if lte IE 7]>
-  <link href='/vendor/assets/font-awesome/css/font-awesome-ie7.min.css' rel='stylesheet' type='text/css'>
-<![endif]-->
+<link href='//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css' rel="stylesheet">
+<link href='//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css' rel="stylesheet">
+<link href='//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css' rel='stylesheet' type='text/css'>
 
 <title>Zeller Electric, Inc. Providing excellent electrical contracting service in Central Illinois with honesty and integrity since 1979</title>
 
