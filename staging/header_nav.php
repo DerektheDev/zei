@@ -47,13 +47,13 @@
 <?php if (strpos($_SERVER['SCRIPT_NAME'], 'index.php') !== false) { ?>
   <br />
   <div class="row-fluid center visible-phone">
-    <a href="tel:3092632353"><img src="/images/phone_icon.png" /></a>
+    <a href="tel:3092632353"><i class="fa fa-phone-square fa-5x"></i></a>
   </div>
   <aside class="visible-phone center" id="call-us-cta">
-    Call us to see how we can work<br />
-    together on your next project.<br />
+    <p class="body-text">Call us to see how we can work<br />
+    together on your next project.</p>
     <a href="tel:3092632353">
-      (309)263-2353
+      <h3>(309)263-2353</h3>
     </a>
   </aside>
 <?php } ?>
