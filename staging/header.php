@@ -26,28 +26,10 @@
 <style type="text/css">
 img, div, a, input { behavior: url(css/iepngfix.htc) }
 </style>
-<script type='text/javascript' src='/js/jquery-1.9.1.js'></script>
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js'></script>
 <script type='text/javascript' src='/vendor/assets/bootstrap/js/bootstrap.js'></script>
 <script type='text/javascript' src='/vendor/assets/jquery-smooth-scroll/jquery.smooth-scroll.min.js'></script>
 <script type='text/javascript' src='/js/custom_scripts.js'></script>
-
-
-<script type='text/javascript'>
-
-$(function(){
-  
-  $('.thumbnail').hover(
-    function(){
-      $(this).find('h5').addClass('thumbHovered');
-    },
-    function(){
-      $(this).find('h5').removeClass('thumbHovered');
-  });
-  
-  $('a').smoothScroll();
-});
-
-</script>
 
 <link href='http://fonts.googleapis.com/css?family=Oxygen:400,300,700' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow' rel='stylesheet' type='text/css'>
