@@ -51,15 +51,11 @@
 		<div class="span1">
 		&nbsp;
 		</div>
-		<h2 class="span11">Our Team</h2>
+		<h2 class="span10 offset1">Our Team</h2>
 	</div>
 	<div class="row-fluid">	
- 	 <section id="content-area" class="span12">
+ 	 <section id="content-area">
 
-	<div class="span1">
-	&nbsp;
-	</div>
-	<header></header>
 	</div>
 	<div class="row-fluid">
 		<div class="span1">
