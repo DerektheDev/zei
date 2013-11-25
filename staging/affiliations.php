@@ -22,21 +22,18 @@
       <ul class="span4">
         <li class="affiliate_thumbnail"><a href="http://www.necanet.org/" target="_blank"><img src="images/neca.jpg" ALT="National Electrical Contractors Association" /></a></li>
         <li class="affiliate_thumbnail"><a href="http://www.osha.gov/" target="_blank"><img src="images/osha.jpg" ALT="OSHA" /></a></li>
-        <li class="affiliate_thumbnail"><a href="http://www.iaei.org/" target="_blank"><img src="images/iaei.jpg" ALT="Illinois Association Electrical Inspectors" /></a></li>
+        <li class="affiliate_thumbnail"><a href="http://www.actonenergy.com/state-selection?rq=/" target="_blank"><img src="images/actonenergy.jpg" ALT="Act On Energy" style="padding-left:1em; padding-right: 1em;" /></a></li>
       </ul>
       <ul class="span4">
       <li class="affiliate_thumbnail"><a href="http://www.ibew.org/" target="_blank"><img src="images/ibew.jpg" ALT="International Brotherhood of Electrical Workers" /></a></li>
       <li class="affiliate_thumbnail"><a href="" target="_blank"><img src="images/ciel.jpg" ALT="National Electrical Contractors Association" /></a></li>
       </ul>
       <ul class="span4">
+      <li class="affiliate_thumbnail"><a href="http://www.iaei.org/" target="_blank"><img src="images/iaei.jpg" ALT="Illinois Association Electrical Inspectors" /></a></li>
       <li class="affiliate_thumbnail"><a href="http://www.shoutlife.com/profile_view.cfm?uid=210783" target="_blank" ><img src="images/cboe.jpg" ALT="Christian Business Owners Expo" /></a></li>
-      <li class="affiliate_thumbnail"><a href="http://www.actonenergy.com/state-selection?rq=/" target="_blank"><img src="images/actonenergy-new.jpg" ALT="Act On Energy" /></a></li>
       </ul>
     </div>  
  
-</div>
-      
-        
     <section class="columns">
       <h2 class="visible-desktop">Supplier and Manufacturer Links</h2>
       <h2 class="hidden-desktop visible-phone">Supplier and <br />Manufacturer Links</h2>
