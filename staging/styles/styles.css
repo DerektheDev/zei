@@ -331,9 +331,12 @@ figure img {
 .affiliate_thumbnail{
   /*margin:0 10px 15px 10px;*/
   /*float:left;*/
-  height: 145px;
+/*  height: 145px;*/
   text-align:center;
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
+
 .affiliate_thumbnail img{
   max-height: 150px;
 }
