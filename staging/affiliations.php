@@ -18,7 +18,7 @@
 
     <br />
 
-    <div id="affiliations_boxes">
+    <div class="affiliations_boxes">
       <div class="row-fluid">
         <a href="http://www.necanet.org/" target="_blank" class="span3">
           <div class="row-fluid affiliate_thumbnail">
@@ -65,7 +65,7 @@
     <section class="columns">
       <h2 class="visible-desktop">Supplier and Manufacturer Links</h2>
       <h2 class="hidden-desktop visible-phone">Supplier and <br />Manufacturer Links</h2>
-      <div id="lists affiliations_boxes" class="row-fluid">
+      <div id="lists" class="row-fluid affiliations_boxes">
         <ul class="span4">
           <li class="affiliate_thumbnail"><a href="http://www.wesco.com/" target="_blank"><img src="images/wesco-logo.jpg" ALT="WESCO"></a></li>
           <li class="affiliate_thumbnail"><a href="http://www.kirbyrisk.com/" target="_blank"><img src="images/kirby-risk-logo.jpg" ALT="Kirby-Risk"></a></li>

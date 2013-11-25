@@ -320,7 +320,7 @@ figure img {
   /*border:2px solid #00477F;*/
   }
 
-#affiliations_boxes{
+.affiliations_boxes{
 	clear: both;
 	/*float: left;*/
 	background-color: #FFF;
@@ -334,7 +334,7 @@ figure img {
 /*  height: 145px;*/
   text-align:center;
   margin-top: 1em;
-  margin-bottom: 1em;
+  margin-bottom: 1.5em;
 }
 
 .affiliate_thumbnail img{
