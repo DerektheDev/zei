@@ -9,7 +9,7 @@
 </div>
 
 <div class="row-fluid">
-  <figure id="content_area" class="span12">
+  <section id="content_area" class="span11 offset1">
     <h2>Contact Us</h2>
     <address class="row-fluid">
       <div class="address span6">
@@ -44,17 +44,24 @@
           .form-label{ width:50px !important; }
           .form-label-left{ width:50px !important; }
           .form-line{ padding:10px; }
-          .form-label-right{ width:50px !important; }
+          .form-label-right{ width:50px !important;
+          	padding-right: 5em !important;}
           .form-all{
               width:550px;
               background:none;
               color:#000000 !important;
-              font-family:Verdana;
+              font-family:'Oxygen',Verdana, sans-serif;
               font-size:12px;
           }
           .jotform-form { margin-top: 25px; }
           .jotform-form label{ color:#206bae; }
+		
+			.jotform-form textarea{
+				height: auto !important;
+				
+			}
           .jotform-form input, .jotform-form textarea{
+            height: 3em;
             border-radius: 5px;
             -moz-border-radius: 5px;
             -webkit-border-radius: 5px;
@@ -62,7 +69,7 @@
             border: 1px solid #dfdfdf;
             line-height: 2em;
             font-size: 1em;
-          }
+                      }
         </style>
         <div class="row-fluid">
           <form class="jotform-form span6" action="http://www.jotform.com/submit.php" method="post" name="form_12374553456" id="12374553456" accept-charset="utf-8">
@@ -75,7 +82,7 @@
                       Name:<!--<span class="form-required">*</span>-->
                     </label>
                     <div id="cid_7" class="form-input">
-                      <input type="text" class="form-textbox validate[required]" id="input_7" name="q7_name" size="55" />
+                      <input type="text" class="form-textbox validate[required]" id="input_7" name="q7_name" size="45" />
                     </div>
                   </li>
                   <li class="form-line" id="id_4">
@@ -83,19 +90,19 @@
                       Email:<!--<span class="form-required">*</span>-->
                     </label>
                     <div id="cid_4" class="form-input">
-                      <input type="email" class="form-textbox validate[required, Email]" id="input_4" name="q4_email4" size="55" />
+                      <input type="email" class="form-textbox validate[required, Email]" id="input_4" name="q4_email4" size="45" />
                     </div>
                   </li>
                   <li class="form-line" id="id_6">
                     <label class="form-label-right" id="label_6" for="input_6"> Subject: </label>
                       <div id="cid_6" class="form-input">
-                        <input type="text" class="form-textbox" id="input_6" name="q6_subject6" size="55" />
+                        <input type="text" class="form-textbox" id="input_6" name="q6_subject6" size="45" />
                       </div>
                   </li>
                   <li class="form-line" id="id_5">
                     <label class="form-label-right" id="label_5" for="input_5"> Message: </label>
                     <div id="cid_5" class="form-input">
-                        <textarea id="input_5" class="form-textarea" name="q5_message5" cols="56" rows="6"></textarea>
+                        <textarea id="input_5" class="form-textarea" name="q5_message5" cols="35" rows="8"></textarea>
                     </div>
                   </li>
                   <li class="form-line" id="id_2">
@@ -129,7 +136,7 @@
         </div>
       </div><!-- end contact -->
     </div><!-- end white_content -->
-  </figure><!-- content_area --> 
+  </section><!-- content_area --> 
 </div><!-- row-fluid -->
 
 <?php include('footer.php'); ?>
