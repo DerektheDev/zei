@@ -9,7 +9,7 @@
 </div>
 
 <div class="row-fluid">
-  <section id="content_area" class="span11 offset1">
+  <section id="content_area" class="span10 offset1">
     <h2>Contact Us</h2>
     <address class="row-fluid">
       <div class="address span6">
