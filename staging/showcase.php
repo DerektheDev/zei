@@ -22,7 +22,7 @@
 		</div>
 	</header>
 
-	<article class="showcase_entry">
+	<article>
 		<div class="padded">
 
 			<div class="row-fluid">
