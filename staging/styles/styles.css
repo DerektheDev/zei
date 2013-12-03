@@ -298,6 +298,10 @@ figure img {
 	/*margin-right: 0;*/
 }
 
+.thumbnail a:hover{
+	text-decoration: none;
+}
+
 .thumbHovered{
 	color: #00477F;
 	text-shadow: 2px 2px 1px #ccc;
@@ -305,6 +309,11 @@ figure img {
 
 .clearboth {
 	clear: both;
+}
+
+.thumbnail{
+	padding:0;
+	border:0;
 }
 
 .thumbnail {
@@ -549,6 +558,7 @@ ul#lists{
 		width: 100%;
 		margin-left: 0;
 	}
+
 }
 
 .well p {
