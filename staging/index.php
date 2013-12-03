@@ -5,34 +5,26 @@
 <div class="row-fluid pull-right hidden-phone">
   <div class="span12">
     <div id="zeller-carousel" class="carousel slide">
-
       <div class="carousel-inner">
         <div class="item active">
-    		<img src="images/fourseasons500.jpg" alt="Four Seasons" class="span12" />      
-    		<div class="container">
-            <div class="carousel-caption">
-              <p class="lead">Four Seasons II</p>
-            </div>
+          <img src="images/fourseasons500.jpg" alt="Four Seasons" class="span12" />
+          <div class="carousel-caption">
+            <p class="lead">Four Seasons II</p>
           </div>
         </div>
         <div class="item">
-    		<img src="images/hccedcenter500.jpg" alt="Heartland Community College Community Education Center" id="mainimage" class="span12" />     
-    		 <div class="container">
-            <div class="carousel-caption">
-              <p class="lead">Heartland Community College Community Education Center</p>
-            </div>
+          <img src="images/hccedcenter500.jpg" alt="Heartland Community College Community Education Center" id="mainimage" class="span12" />     
+          <div class="carousel-caption">
+            <p class="lead">Heartland Community College Community Education Center</p>
           </div>
         </div>
         <div class="item">
           <img src="images/bcc500.jpg" alt="Bloomington Country Club" title="Bloomington Country Club 1st Floor Renovations" id="mainimage" class="span12" />
-          <div class="container">
-            <div class="carousel-caption">
-              <p class="lead">Bloomington Country Club</p>
-            </div>
+          <div class="carousel-caption">
+            <p class="lead">Bloomington Country Club</p>
           </div>
         </div>
       </div>
-
       <div class="left" href="#zeller-carousel" data-slide="prev">
         <i id="left-arrow" class="slider-arrow fa fa-chevron-circle-left"></i>
       </div>
@@ -41,8 +33,7 @@
       </div>
     </div>
   </div>
-<<<<<<< HEAD
-</div>-->
+</div>
 
 <div class="container-fluid">
 

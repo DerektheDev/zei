@@ -21,11 +21,7 @@
 <link rel="stylesheet" href="<?php echo $root; ?>/vendor/assets/bootstrap/css/bootstrap.min.css" type="text/css" />
 <link rel="stylesheet" href="<?php echo $root; ?>/vendor/assets/bootstrap/css/bootstrap-responsive.min.css" type="text/css" />
 <link rel="stylesheet" href="<?php echo $root; ?>/styles/styles.css" type="text/css" />
-<<<<<<< HEAD
-<!--<link rel="stylesheet" href="<?php echo $root; ?>/styles/slider-styles.css" type="text/css" />-->
-=======
 <link rel="stylesheet" href="<?php echo $root; ?>/styles/slider-styles.css" type="text/css" />
->>>>>>> caa463472e0d67cd2c6d8b5cbf478dfeba80ea78
 
 <style type="text/css">
 img, div, a, input { behavior: url(css/iepngfix.htc) }
