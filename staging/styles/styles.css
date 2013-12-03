@@ -570,11 +570,12 @@ ul#lists{
 /* Inset, by Dan Eden */
 		
 hr-style {
-    border: 0;
-    height: 0;
-    border-top: 3px solid rgba(0, 0, 0, 0.9);
-    border-bottom: 1px solid rgba(128, 128, 128, 0.8);
+    height: 12px;
+    border-top: 60px solid rgba(0, 0, 0, 0.5);
+    border-bottom: 1px solid rgba(128, 128, 128, 0.4);
 }
+
+
 
 .logo{
 	max-width: 50%;
