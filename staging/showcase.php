@@ -22,11 +22,10 @@
 		</div>
 	</header>
 
-	<article>
+	<article class="showcase_entry">
 		<div class="padded">
-
 			<div class="row-fluid">
-		<div class="showcase_entry_img span3 offset1">
+				<div class="showcase_entry_img span3 offset1">
 					<img src="<?php echo $root; ?>/images/heartland.jpg" />
 				</div>
 				<div class="showcase_entry_text span8">
@@ -35,9 +34,6 @@
 					<p>This project included additions to the student center and instructional commons, new child development lab, fitness and recreation center, community education center, receiving and storage building, and site work. </p>
 				</div>
 			</div>
-		</div>
-		<div class="span1">
-		&nbsp;
 		</div>
 	</article>
 	
@@ -90,21 +86,128 @@
 	<article class="showcase_entry">
 		<div class="padded">
 			<div class="row-fluid">
-				<div class="showcase_entry_img span3">
-					<img src="<?php echo $root; ?>/images/175px_placeholder.png" />
+				<div class="showcase_entry_img span3 offset1">
+					<img src="<?php echo $root; ?>http://www.placehold.it/170x120" />
 				</div>
-				<div class="showcase_entry_text span9">
-					<h4>Coming Soon!</h4>
-					<h5></h5><br />
-					<p></p>
+				<div class="showcase_entry_text span8">
+				<h4>Coming Soon!</h4>
+				<h5>&nbsp;</h5><br />
+				<p>&nbsp;</p>
 				</div>
 			</div>
 		</div>
 	</article>
+</section>
 
-	<div class="span1">
-	&nbsp;
-	</div>
+<section class="row-fluid"><!--Residential-->
+	<article>
+		<header id="content_area" class="span11 offset1">
+			<div class="padded">
+				<h3>Showcase - Industrial</h3>
+				<p class="body-text">Our engineering connections are key when combining innovative concepts with technical solutions, and we look forward to putting new plans into action. Whether creating motor control or electrical systems for heavy machinery or assisting in the development of programmable logic control (PLC) systems, Zeller Electric’s experienced team of experts provides a full range of design, implementation, and maintenance solutions.</p>
+			</div>
+		</header>
+	</article>
+
+	<article class="showcase_entry">
+		<div class="padded">
+			<div class="row-fluid">
+				<div class="showcase_entry_img span3 offset1">
+					<img src="<?php echo $root; ?>http://www.placehold.it/170x120" />
+				</div>
+				<div class="showcase_entry_text span8">
+				<h4>Coming Soon!</h4>
+				<h5>&nbsp;</h5><br />
+				<p>&nbsp;</p>
+				</div>
+			</div>
+		</div>
+	</article>
+</section>
+
+<section class="row-fluid"><!--Residential-->
+	<article>
+		<header id="content_area" class="span11 offset1">
+			<div class="padded">
+				<h3>Showcase - Agricultural</h3>
+				<p class="body-text">Zeller Electric has roots in agricultural systems, and we’ve continued to service electrical needs in this important Midwestern industry ever since. Our agricultural services include creating and implementing systems for grain bins, grain legs, and general electrical systems—all with an emphasis on efficiency and safety.</p>
+			</div>
+		</header>
+	</article>
+
+	<article class="showcase_entry">
+		<div class="padded">
+			<div class="row-fluid">
+				<div class="showcase_entry_img span3 offset1">
+					<img src="<?php echo $root; ?>http://www.placehold.it/170x120" />
+				</div>
+				<div class="showcase_entry_text span8">
+				<h4>Coming Soon!</h4>
+				<h5>&nbsp;</h5><br />
+				<p>&nbsp;</p>
+				</div>
+			</div>
+		</div>
+	</article>
+</section>
+
+<section class="row-fluid"><!--Residential-->
+	<article>
+		<header id="content_area" class="span11 offset1">
+			<div class="padded">
+				<h3>Showcase - Design/Build</h3>
+				<p class="body-text">Our custom solutions span a variety of projects, including sports facilities, healthcare establishments, and general commercial-grade electrical needs. When you need the entire package—concept, design, installation, and maintenance—call Zeller Electric to get your project up and running.</p>
+			</div>
+		</header>
+	</article>
+
+	<article class="showcase_entry">
+		<div class="padded">
+			<div class="row-fluid">
+				<div class="showcase_entry_img span3 offset1">
+					<img src="<?php echo $root; ?>http://www.placehold.it/170x120" />
+				</div>
+				<div class="showcase_entry_text span8">
+				<h4>Coming Soon!</h4>
+				<h5>&nbsp;</h5><br />
+				<p>&nbsp;</p>
+				</div>
+			</div>
+		</div>
+	</article>
+</section>
+
+<section class="row-fluid"><!--Residential-->
+	<article>
+		<header id="content_area" class="span11 offset1">
+			<div class="padded">
+				<h3>Showcase - Data Systems</h3>
+				<p class="body-text">Zeller Electric’s data systems division is on top of the latest technology in data, voice, CCTV, and security systems. We are one of the few companies between Chicago and St. Louis with in-house, accredited BISCI Registered Communications Distribution Designers (RCDD). Our systems group provides consulting, design, installation, testing, troubleshooting, and certification—and we partner with industry-leading companies like Panduit, Belden, Axis, and Panasonic to provide the absolute best technology systems. Our expertise and capabilities include, but are not limited to:
+				<ul class="body-text">
+					<li>Copper UTP</li>
+					<li>Fiber optic cabling</li>
+					<li>Access control technologies and systems</li>
+					<li>Wireless technologies and distributed antenna systems</li>
+				</ul>
+				</p>
+			</div>
+		</header>
+	</article>
+
+	<article class="showcase_entry">
+		<div class="padded">
+			<div class="row-fluid">
+				<div class="showcase_entry_img span3 offset1">
+					<img src="<?php echo $root; ?>http://www.placehold.it/170x120" />
+				</div>
+				<div class="showcase_entry_text span8">
+				<h4>Coming Soon!</h4>
+				<h5>&nbsp;</h5><br />
+				<p>&nbsp;</p>
+				</div>
+			</div>
+		</div>
+	</article>
 </section>
 
 	</div> <!-- end .container-fluid -->
