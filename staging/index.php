@@ -5,6 +5,11 @@
 <div class="row-fluid pull-right hidden-phone">
   <div class="span12">
     <div id="zeller-carousel" class="carousel slide">
+      <ol class="carousel-indicators">
+        <li data-target="zeller-carousel" data-slide-to="0" class="active"></li>
+        <li data-target="zeller-carousel" data-slide-to="1"></li>
+        <li data-target="zeller-carousel" data-slide-to="2"></li>
+      </ol>
       <div class="carousel-inner">
         <div class="item active">
           <img src="images/fourseasons500.jpg" alt="Four Seasons" class="span12" />

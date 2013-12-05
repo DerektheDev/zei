@@ -94,21 +94,24 @@
 	right:1em;	
 }
 
-.slide-caption {
-	z-index: 99998;
+.carousel-caption {
 	font: 1.5em 'Oxygen', Geneva, sans-serif;
 	color: #FFF;
-	position: absolute;
-	bottom: 2.5em;
-	left: 0;
 	box-sizing: border-box;
 	width:100%;
 	padding:0.875em;
 	background: #000000; /* Fallback color */
 	background: rgba(0, 0, 0, .6);
 	text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.5);
+	position: relative;
+	float:right;
+	bottom:2.7em;
 }
 
+ol.carousel-indicators{
+	bottom:5.75em;
+	top:inherit;	
+}
 
 @media (max-width: 480px) {
 	.slide{ width: 90%; }
