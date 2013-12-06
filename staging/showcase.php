@@ -270,7 +270,7 @@
 		<div class="padded">
 			<div class="row-fluid">
 				<div class="showcase_entry_img span3 offset1">
-					<img src="<?php echo $root; ?>images/showcase_thumbs/wesleyanlogo-showcase.jpg" alt="Illinois Wesleyan logo" />
+					<img src="<?php echo $root; ?>images/showcase_thumbs/Wesleyanlogo-showcase.jpg" alt="Illinois Wesleyan logo" />
 				</div>
 				<div class="showcase_entry_text span7">
 				<h4>Illinois Wesleyan University – Bloomington, IL</h4>

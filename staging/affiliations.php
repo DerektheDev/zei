@@ -38,7 +38,7 @@
       <div id="lists" class="row-fluid affiliations_boxes">
         <ul class="span4">
           <li class="affiliate_thumbnail"><a href="http://www.wesco.com/" target="_blank"><img src="images/wesco-logo.jpg" ALT="WESCO"></a></li>
-          <li class="affiliate_thumbnail"><a href="http://www.kirbyrisk.com/" target="_blank"><img src="images/kirby-risk-logo.jpg" ALT="Kirby-Risk"></a></li>
+          <li class="affiliate_thumbnail"><a href="http://www.kirbyrisk.com/" target="_blank"><img src="images/Kirby-Risk-logo.jpg" ALT="Kirby-Risk"></a></li>
           <li class="affiliate_thumbnail"><a href="http://www.lithonia.com/" target="_blank"><img src="images/lithonia_lighting.jpg" ALT="Lithonia Lighting"></a></li>
         </ul>
         <ul class="span4">
@@ -46,8 +46,8 @@
           <li class="affiliate_thumbnail"><a href="http://www.cesco.com/" target="_blank"><img src="images/crescent-logo.jpg" ALT="Crescent Supply"></a></li>
         </ul>
         <ul class="span4">
-          <li class="affiliate_thumbnail"><a href="http://www.graybar.com/" target="_blank"><img src="images/graybar-logo.jpg" ALT="Graybar"></a></li>
-          <li class="affiliate_thumbnail"><a href="http://www.springfieldelectric.com/" target="_blank"><img src="images/sesclogo.jpg" ALT="Springfield ELectric"></a></li>
+          <li class="affiliate_thumbnail"><a href="http://www.graybar.com/" target="_blank"><img src="images/Graybar-logo.jpg" ALT="Graybar"></a></li>
+          <li class="affiliate_thumbnail"><a href="http://www.springfieldelectric.com/" target="_blank"><img src="images/SESClogo.jpg" ALT="Springfield ELectric"></a></li>
         </ul>
       </div>
     </section>
