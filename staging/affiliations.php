@@ -10,8 +10,6 @@
 
 <div class="row-fluid">
 
-<div class="row-fluid">
-
 	<article id="content_area" class="span10 offset1">
     <h2>Affiliations</h2>  
     <p class="body-text">ZEI has many valued partners and works with many different organizations. We are also members of both the <a href="http://www.mortonchamber.org/" target="_blank">Morton Chamber of Commerce</a> and the <a href="http://www.mcleancochamber.org/" target="_blank">McLean County Chamber of Commerce</a>.</p>

@@ -3,7 +3,7 @@
 <div class="row-fluid">
   <div id="mainimage" class="span12">
     <div class="row-fluid">
-      <img src="images/heartland_cafe500-2x.jpg" alt="Heartland Community College Campus Cafe" class="span12" />
+      <img src="images/heartland_cafe350-2x.jpg" alt="Heartland Community College Campus Cafe" class="span12" />
     </div>
   </div>
 </div>
