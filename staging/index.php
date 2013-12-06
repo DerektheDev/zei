@@ -75,21 +75,21 @@
       <div class="row-fluid">
         <div id="Commercial" class="thumbnail span4">
           <a href="<?php echo $root; ?>/showcase/commercial.php" class="row-fluid">
-            <img src="images/home_thumbs/commercial_thumb.jpg" class="span12" />
+            <img src="images/home_thumbs/commercial_thumb.jpg" alt="Showcase - Commercial" class="span12" />
             <h5>Commercial</h5>
           </a>
         </div>
         
         <div id="Residential" class="thumbnail span4">
           <a href="<?php echo $root; ?>/showcase/residential.php" class="row-fluid">
-            <img src="http://placehold.it/175x75" class="span12" />
+            <img src="images/home_thumbs/residential_thumb.jpg" alt="Showcase - Residential" class="span12" />
             <h5>Residential</h5>
           </a>
         </div>
         
 		<div id="Industrial" class="thumbnail span4">
 		    <a href="<?php echo $root; ?>/showcase/industrial.php" class="row-fluid">
-		      <img src="http://placehold.it/175x75" class="span12" />
+		      <img src="images/home_thumbs/industrial_thumb.jpg" alt="Showcase - Industrial" class="span12" />
           <h5>Industrial</h5>
 		    </a>
 		  </div>
@@ -98,21 +98,21 @@
       <div class="row-fluid">
        <div id="Agricultural" class="thumbnail span4">
           <a href="<?php echo $root; ?>/showcase/agricultural.php" class="row-fluid">
-            <img src="images/home_thumbs/ag_thumb.jpg" class="span12" />
+            <img src="images/home_thumbs/ag_thumb.jpg" alt="Showcase - Agricultural" class="span12" />
             <h5>Agricultural</h5>
           </a>
        </div>
       
         <div id="Design-build" class="thumbnail span4">
           <a href="<?php echo $root; ?>/showcase/design-build.php" class="row-fluid">
-            <img src="images/home_thumbs/design_thumb.jpg" class="span12" />
+            <img src="images/home_thumbs/design-build_thumb.jpg" alt="Showcase - Design/Build" class="span12" />
             <h5>Design/Build</h5>
           </a>
       </div>
         
       <div id="Data-comm" class="thumbnail span4">
           <a href="#" class="row-fluid">
-            <img src="images/home_thumbs/data_thumb.jpg" class="span12" />
+            <img src="images/home_thumbs/data-comm_thumb.jpg" alt="Showcase - Data Communication" class="span12" />
             <h5>Data Comm</h5>
           </a>
       </div>
