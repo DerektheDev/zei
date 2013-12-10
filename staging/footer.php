@@ -4,7 +4,7 @@
 <footer id="footer">
   <nav id="footer-menu" class="visible-desktop">
     <ul>
-      <li><a href="<?php echo $root; ?>/">Home</a></li>
+      <li><a href="<?php echo $root; ?>/index.php">Home</a></li>
       <li><a href="<?php echo $root; ?>/about.php">About Us</a></li>
       <li><a href="<?php echo $root; ?>/affiliations.php">Affiliations</a></li>
       <li><a href="<?php echo $root; ?>/contact.php">Contact</a></li>

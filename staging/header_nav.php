@@ -9,6 +9,7 @@
       <div class="row-fluid">
         <ul class="dropdown pull-right desktop-nav">
           <!-- <li><a href="<?php echo $root; ?>/">Home</a></li> -->
+          <li><a href="<?php echo $root; ?>/index.php">Home</a></li>
           <li>
             <a href="#showcase">Showcase</a>
             <ul class="top-of-stack">

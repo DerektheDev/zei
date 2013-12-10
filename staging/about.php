@@ -18,7 +18,7 @@
   <article id="content_area" class="span8">
     <div id="about">  
       <h2>About Us</h2>
-      <p class="body-text">When brothers Jon and David Zeller began Zeller Electric, Inc., their two-person operation serviced just the Peoria area. Today Zeller Electric is 35 years strong and provides electrical contracting services throughout Central Illinois. As we’ve grown we’ve brought additional family members on board, and today we’re proud to be a full-fledged, second-generation business. Our team of professionals believes in the importance of upholding our values of honesty, integrity, fairness, and quality workmanship—an outlook that has led to many long-standing relationships with our customers.</p>
+      <p class="body-text">When brothers Jon and David Zeller began Zeller Electric, Inc., their two-person operation serviced just the Peoria area. Today Zeller Electric is 35 years strong and provides electrical contracting services throughout Central Illinois. As we’ve grown we’ve brought additional family members on board, and today we’re proud to be a full-fledged, second-generation business. <a href="#our-team" style="text-decoration: underline;">Our team</a> of professionals believes in the importance of upholding our values of honesty, integrity, fairness, and quality workmanship—an outlook that has led to many long-standing relationships with our customers.</p>
       
       <p class="body-text">Zeller Electric is a union contractor with approximately thirty experienced electrical workers on board. We are pleased to have the area’s most knowledgeable project managers, estimators, and journeymen wiremen working together to provide quality service and efficient solutions. </p>
       
@@ -34,7 +34,7 @@
         <li><i class="fa fa-check"></i> Churches</li>
       </ul>
       
-      <p class="body-text">For more information about our recent projects, please visit our <a href="">Showcase</a>.</p> 
+      <p class="body-text">For more information about our recent projects, please visit our <a href="<?php echo $root; ?>/showcase.php">Showcase</a>.</p> 
 	  </div>
    </article><!-- content_area -->
 
@@ -45,7 +45,7 @@
 </div> <!--end row-fluid About Us-->
 
 	<hr class="hr-style">
-
+<a id="our-team"></a>
 <!--start bio-->
 	<div class="row-fluid">
 		<div class="span1">
@@ -144,7 +144,7 @@
 					<img src="images/portrait-seth-zeller.jpg" alt="Seth Zeller">
 					<div class="caption">
 						<h4>Seth Zeller</h4>
-						<h5>Estimator, Project Manager, Owner</h5>
+						<h5>Estimator/Project Manager</h5>
 					</div>
 				</div>
 			</li>
@@ -170,7 +170,7 @@
 					<img src="images/portrait-luke-zeller.jpg" alt="Luke Zeller">
 					<div class="caption">
 						<h4>Luke Zeller</h4>
-						<h5>Area Superintendent</h5>
+						<h5>Bloomington Area Superintendent</h5>
 					</div>
 				</div>
 			</li>
@@ -282,7 +282,7 @@
 			<li class="col-sm-6 span7">
 				<p class="bio-text">He may be one of the newest members of our team, but Jordan has known the Zeller family for several years. Prior to joining our team he completed his BA at Eureka College, and considering he contemplated pursuing work as an electrician even before attending college, it only made sense that this interest would lead him to become a valuable member of Zeller Electric.</p>
 				
-				<p class="bio-text">Jordan coaches football and girls’ basketball at El Paso-Gridley High School and plays on an assortment of sports teams. He enjoys spending time with his family—especially when food is involved—and going to drive-in movies with his wife (and high school sweetheart) Marqui. Jordan attends the First United Methodist Church in Gridley and is on staff at The Baby Fold’s Residential Treatment Center in Normal.</p>
+				<p class="bio-text">Jordan coaches football and girls’ basketball at El Paso-Gridley High School and plays on an assortment of sports teams. He enjoys spending time with his family—especially when food is involved—and going to drive-in movies with his wife (and high school sweetheart) Marqui. Jordan attends the First United Church of Gridley and is on staff at The Baby Fold’s Residential Treatment Center in Normal.</p>
 			</li>
 			</ul>
 		<div class="span1">
@@ -332,7 +332,7 @@
 			</li>
 
 			<li class="col-sm-6 span7">
-				<p class="bio-text">Jean has kept things running smoothly at Zeller for the past 10 years. She’s a native of Morton and has logged a good deal of experience with several other locally owned and operated companies, so when the position of secretary/accounts payable opened up with our company, Jean was the perfect choice.
+				<p class="bio-text">Jean has been at Zeller for the past 10 years. She’s a native of Morton and has logged a good deal of experience with several other locally owned and operated companies, so when the position of secretary/accounts payable opened up with our company, Jean was the perfect choice.
 				 
 				<p class="bio-text">Jean enjoys traveling, shopping, and reading. She resides in Morton and has one grown son.</p>
 			</li>
