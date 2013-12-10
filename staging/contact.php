@@ -25,7 +25,9 @@
         <p>404 Northtown Rd., Normal, IL 61761</p>
         <p>Phone: 309-452-4393</p><br /><br />
       </div>
-    </div>
+    </address>
+  </section>
+</div>
   
     <div id="white_content" class="row-fluid">
       <div id="contact" class="span10 offset1">
@@ -136,7 +138,5 @@
         </div>
       </div><!-- end contact -->
     </div><!-- end white_content -->
-  </section><!-- content_area --> 
-</div><!-- row-fluid -->
 
 <?php include('footer.php'); ?>
