@@ -14,7 +14,20 @@ $(document).ready(function(){
       $(this).find('h5').removeClass('thumbHovered');
   });
   
-  $('a').smoothScroll();
 
+  $('a:not(.showcase_link)').smoothScroll();
+  $(document).on('click', 'a.showcase_link', function(event){
+    event.preventDefault();
+    switch(window.location.pathname){
+      case "/showcase.php":
+        $('html, body').animate({
+          scrollTop: $('#'+ $(this).attr('data-target')).offset().top
+        }, 'slow');
+        break;
+      default:
+        window.location.href = $(this).attr('href');
+        break;
+    }
+  })
 
 });

@@ -21,7 +21,7 @@
 
 <section class="row-fluid"> <!--Commercial-->
 	<header id="content_area" class="span10 offset1">
-		<div class="padded">
+		<div class="padded" id="sc_commercial">
 			<h3>Showcase - Commercial</h3>
 			<p class="body-text">We are Central Illinois’ pre-eminent electrical contractor for outfitting commercial-grade buildings. Whether you need interior electrical design, exterior lighting, security systems, or generator installation, Zeller Electric is always ready to meet your needs&mdash;and exceed your expectations. 
 			</p>
@@ -83,7 +83,7 @@
 <section class="row-fluid"><!--Residential-->
 	<article>
 		<header id="content_area" class="span10 offset1">
-			<div class="padded">
+			<div class="padded" id="sc_residential">
 				<h3>Showcase - Residential</h3>
 				<p class="body-text">Whether you’re looking for attractive exterior lighting or indoor electrical design/retrofitting for your kitchen, basement, or home theater, we provide affordable and efficient custom solutions for your home. We accept credit cards and can assist with financing, and our work is backed by a one-year conditional warranty.</p>
 			</div>
@@ -109,7 +109,7 @@
 <section class="row-fluid"><!--Industrial-->
 	<article>
 		<header id="content_area" class="span10 offset1">
-			<div class="padded">
+			<div class="padded" id="sc_industrial">
 				<h3>Showcase - Industrial</h3>
 				<p class="body-text">Our engineering connections are key when combining innovative concepts with technical solutions, and we look forward to putting new plans into action. Whether creating motor control or electrical systems for heavy machinery or assisting in the development of programmable logic control (PLC) systems, Zeller Electric’s experienced team of experts provides a full range of design, implementation, and maintenance solutions.</p>
 			</div>
@@ -135,7 +135,7 @@
 <section class="row-fluid"><!--Agricultural-->
 	<article>
 		<header id="content_area" class="span10 offset1">
-			<div class="padded">
+			<div class="padded" id="sc_agricultural">
 				<h3>Showcase - Agricultural</h3>
 				<p class="body-text">Zeller Electric has roots in agricultural systems, and we’ve continued to service electrical needs in this important Midwestern industry ever since. Our agricultural services include creating and implementing systems for grain bins, grain legs, and general electrical systems—all with an emphasis on efficiency and safety.</p>
 			</div>
@@ -179,7 +179,7 @@
 <section class="row-fluid"><!--Design/Build-->
 	<article>
 		<header id="content_area" class="span10 offset1">
-			<div class="padded">
+			<div class="padded" id="sc_design_build">
 				<h3>Showcase - Design/Build</h3>
 				<p class="body-text">Our custom solutions span a variety of projects, including sports facilities, healthcare establishments, and general commercial-grade electrical needs. When you need the entire package—concept, design, installation, and maintenance—call Zeller Electric to get your project up and running.</p>
 			</div>
