@@ -323,8 +323,8 @@
 			</div>
 		</div>
 	</article>
-</section>
 
-	</div> <!-- end .container-fluid -->
+</section>
+	<a href="#" class="return-to-top pull-right">Return to top <i class="fa fa-arrow-circle-o-up"></i></a> 
 
 <?php include('footer.php'); ?>

@@ -53,5 +53,4 @@
     </section>
   </article><!-- content_area -->
 </div>
-
 <?php include('footer.php'); ?>

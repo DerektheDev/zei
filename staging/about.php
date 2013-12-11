@@ -42,6 +42,7 @@
     <aside class="well">
     <p><small>Zeller Electric is proud to partner with Ameren as an <a href="http://www.actonenergy.com/state-selection?rq=/" target="_blank">Act on Energy Ally</a>. We are committed to providing energy-saving, cost-effective solutions.</small></p></aside> 
 	</div>
+
 </div> <!--end row-fluid About Us-->
 
 	<hr class="hr-style">
@@ -341,6 +342,8 @@
 		&nbsp;
 		</div>
 	  </div>
+	  	<a href="#" class="return-to-top pull-right">Return to top <i class="fa fa-arrow-circle-o-up"></i></a> 
+	  
 	</section>
 
 </div>

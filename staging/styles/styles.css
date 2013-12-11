@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* CSS Document */
 
-h1, h2, h3, h4, h5, h6, p {
+h1, h2, h3, h4, h5, h6, p, a {
 	margin-top: 0;
 	padding: 0;
 	color: #000;
@@ -48,6 +48,17 @@ a{
 
 a:visited {
 	color: #00477F;
+}
+
+.return-to-top {
+	color:#A9A9A9; 
+	margin: 0 2em 1em 0;
+	text-decoration: none;
+	}
+
+.return-to-top a:visited {
+	color:#A9A9A9; 
+	text-decoration: none;
 }
 
 ul{
