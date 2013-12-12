@@ -10,12 +10,12 @@
       <li><a href="<?php echo $root; ?>/contact.php">Contact</a></li>
     </ul>
     <ul>
-      <li><a href="<?php echo $root; ?>/showcase/commercial.php"   class="showcase_link" data-target="sc_commercial">Commercial</a></li>
-      <li><a href="<?php echo $root; ?>/showcase/residential.php"  class="showcase_link" data-target="sc_residential">Residential</a></li>
-      <li><a href="<?php echo $root; ?>/showcase/industrial.php"   class="showcase_link" data-target="sc_industrial">Industrial</a></li>
-      <li><a href="<?php echo $root; ?>/showcase/agricultural.php" class="showcase_link" data-target="sc_agricultural">Agricultural</a></li>
-      <li><a href="<?php echo $root; ?>/showcase/design-build.php" class="showcase_link" data-target="sc_design_build">Design/Build</a></li>
-      <li><a href="#">Data Communication</a></li>
+      <li><a href="<?php echo $root; ?>/showcase/showcase.php?t=sc_commercial" class="showcase_link" data-target="sc_commercial">Commercial</a></li>
+      <li><a href="<?php echo $root; ?>/showcase/showcase.php?t=sc_residential" class="showcase_link" data-target="sc_residential">Residential</a></li>
+      <li><a href="<?php echo $root; ?>/showcase/showcase.php?t=sc_industrial" class="showcase_link" data-target="sc_industrial">Industrial</a></li>
+      <li><a href="<?php echo $root; ?>/showcase/showcase.php?t=sc_agricultural" class="showcase_link" data-target="sc_agricultural">Agricultural</a></li>
+      <li><a href="<?php echo $root; ?>/showcase/showcase.php?t=sc_design_build" class="showcase_link" data-target="sc_design_build">Design/Build</a></li>
+      <li><a href="<?php echo $root; ?>/showcase/showcase.php?t=sc_data_communication" class="showcase_link" data-target="sc_data_communication">Data Communication</a></li>
     </ul>
     <address>
       <ul>

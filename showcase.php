@@ -252,7 +252,7 @@
 <section class="row-fluid"><!--Data Systems-->
 	<article>
 		<header id="content_area" class="span10 offset1">
-			<div class="padded">
+			<div class="padded" id="sc_data_communication">
 				<h3>Showcase - Data Systems</h3>
 				<p class="body-text">Zeller Electric’s data systems division is on top of the latest technology in data, voice, CCTV, and security systems. We are one of the few companies between Chicago and St. Louis with in-house, accredited BISCI Registered Communications Distribution Designers (RCDD). Our systems group provides consulting, design, installation, testing, troubleshooting, and certification—and we partner with industry-leading companies like Panduit, Belden, Axis, and Panasonic to provide the absolute best technology systems. Our expertise and capabilities include, but are not limited to:
 				<ul>
