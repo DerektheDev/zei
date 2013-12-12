@@ -5964,6 +5964,7 @@ a.badge:focus {
   position: relative;
   margin-bottom: 20px;
   line-height: 1;
+  margin: 0 auto;
 }
 
 .carousel-inner {
