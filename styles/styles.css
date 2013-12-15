@@ -46,7 +46,14 @@ a{
 	text-decoration: none;
 }
 
-a:visited {
+#header ul a{
+	color: #000;
+}
+#header ul a:hover{
+	color: #00477F;
+}
+
+#content a:visited {
 	color: #00477F;
 }
 
