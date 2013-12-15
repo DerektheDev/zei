@@ -11,7 +11,7 @@
 
 	<article class="row-fluid">
 		<header id="content_area" class="span10 offset1">
-			<div class="padded">
+			<div class="padded" id="showcase">
 				<h2>Showcase</h2>
 				<p class="body-text">Zeller Electric provides electrical design, installation, and maintenance for just about every industry. Our solutions fit all job sizes—and all budgets, too. For more information about our projects or services, or to receive a quote, please <a href="contact.php">contact us</a>. </p>
 			</div>

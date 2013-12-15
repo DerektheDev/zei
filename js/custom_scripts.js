@@ -9,6 +9,15 @@ function getURLParameter(sParam){
   }
 }
 
+// function fullHttpGetAndScrollToAnchor(){
+
+// }
+function scrollToAnchor(dataTarget){
+  $('html, body').animate({
+    scrollTop: $('#'+ dataTarget).offset().top
+  }, 'slow');
+}
+
 $(document).ready(function(){
 
 	// remove last right border
@@ -47,10 +56,16 @@ $(document).ready(function(){
   $(document).on('click', 'a.showcase_link', function(event){
     event.preventDefault();
     switch(window.location.pathname){
-      case "/showcase.php":
-        $('html, body').animate({
-          scrollTop: $('#'+ $(this).attr('data-target')).offset().top
-        }, 'slow');
+      case '/':
+      case '/index.php':
+        if($(this).attr('data-target') == 'showcase'){
+          scrollToAnchor($(this).attr('data-target'));
+        } else {
+          window.location.href = $(this).attr('href');
+        }
+        break;
+      case '/showcase.php':
+        scrollToAnchor($(this).attr('data-target'));
         break;
       default:
         window.location.href = $(this).attr('href');
