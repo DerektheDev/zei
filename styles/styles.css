@@ -57,14 +57,15 @@ a{
 	color: #00477F;
 }
 
-.return-to-top a{
-	color:#A9A9A9; 
-	margin: 0 2em 2em 0;
+.return-to-top {
+	color:#A9A9A9 !important; 
+	margin: 0 2em 1em 0;
+	padding-bottom: 2em !important;
 	text-decoration: none;
 	}
 
 .return-to-top a:visited {
-	color:#A9A9A9; 
+	color:#A9A9A9 !important; 
 	text-decoration: none;
 }
 
@@ -550,6 +551,9 @@ ul#lists{
 		font-size: 1.25em;
 		padding-top: 0em !important;
 	}
+	
+	.return-to-top {
+	visibility: hidden;	}
 }
 
 

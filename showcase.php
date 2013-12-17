@@ -37,7 +37,7 @@
 				<div class="showcase_entry_text span7">
 					<h4>Heartland Community College (Phase II) – Normal, IL</h4>
 					<h5>Contract: $6,700,000</h5><br />
-					<p>This project included additions to the student center and instructional commons, new child development lab, fitness and recreation center, community education center, receiving and storage building, and site work. </p>
+					<p class="body-text">This project included additions to the student center and instructional commons, new child development lab, fitness and recreation center, community education center, receiving and storage building, and site work. </p>
 				</div>
 			</div>
 		</div>
@@ -52,7 +52,7 @@
 				<div class="showcase_entry_text span7">
 				<h4>Grace Church – Morton, IL</h4>
 				<h5>Contract: $789,000</h5><br />
-				<p>We provided all electrical work for this new church, which included a sanctuary, lobby, multiple classrooms, conference rooms, and site work. </p>
+				<p class="body-text">We provided all electrical work for this new church, which included a sanctuary, lobby, multiple classrooms, conference rooms, and site work. </p>
 				</div>
 			</div>
 		</div>
@@ -99,7 +99,7 @@
 				<div class="showcase_entry_text span7">
 				<h4>Coming Soon!</h4>
 				<h5>&nbsp;</h5><br />
-				<p>&nbsp;</p>
+				<p class="body-text">&nbsp;</p>
 				</div>
 			</div>
 		</div>
@@ -127,7 +127,7 @@
 				<div class="showcase_entry_text span7">
 				<h4>Coming Soon!</h4>
 				<h5>&nbsp;</h5><br />
-				<p>&nbsp;</p>
+				<p class="body-text">&nbsp;</p>
 				</div>
 			</div>
 		</div>
