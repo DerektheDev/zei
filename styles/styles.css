@@ -554,6 +554,11 @@ ul#lists{
 	
 	.return-to-top {
 	visibility: hidden;	}
+	
+	.showcase_entry_img img {
+		max-height: 120px;
+		padding-bottom: 1em;
+	}
 }
 
 
