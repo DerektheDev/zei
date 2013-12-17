@@ -57,9 +57,9 @@ a{
 	color: #00477F;
 }
 
-.return-to-top {
+.return-to-top a{
 	color:#A9A9A9; 
-	margin: 0 2em 1em 0;
+	margin: 0 2em 2em 0;
 	text-decoration: none;
 	}
 
@@ -587,7 +587,7 @@ ul#lists{
 		
 /* Inset, by Dan Eden */
 		
-hr-style {
+.hr-style {
     height: 12px;
     border-top: 60px solid rgba(0, 0, 0, 0.5);
     border-bottom: 1px solid rgba(128, 128, 128, 0.4);

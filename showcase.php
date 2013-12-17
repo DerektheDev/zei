@@ -13,7 +13,7 @@
 		<header id="content_area" class="span10 offset1">
 			<div class="padded" id="showcase">
 				<h2>Showcase</h2>
-				<p class="body-text">Zeller Electric provides electrical design, installation, and maintenance for just about every industry. Our solutions fit all job sizes—and all budgets, too. For more information about our projects or services, or to receive a quote, please <a href="contact.php">contact us</a>. </p>
+				<p class="body-text">Zeller Electric provides electrical design, installation, and maintenance for just about every industry. Our solutions fit all job sizes—and all budgets, too. For more information about our projects or services, or to receive a quote, please <a href="contact.php" style="text-decoration: underline;"><b>contact us</b></a>. </p>
 			</div>
 		</header>
 	</article>
@@ -78,8 +78,8 @@
 	</article>
 </section>
 
-<hr>
-
+	<a href="#" class="return-to-top pull-right">Return to top <i class="fa fa-arrow-circle-o-up"></i></a> 
+	
 <section class="row-fluid"><!--Residential-->
 	<article>
 		<header id="content_area" class="span10 offset1">
@@ -106,6 +106,8 @@
 	</article>
 </section>
 
+	<a href="#" class="return-to-top pull-right">Return to top <i class="fa fa-arrow-circle-o-up"></i></a> 
+
 <section class="row-fluid"><!--Industrial-->
 	<article>
 		<header id="content_area" class="span10 offset1">
@@ -131,6 +133,8 @@
 		</div>
 	</article>
 </section>
+
+	<a href="#" class="return-to-top pull-right">Return to top <i class="fa fa-arrow-circle-o-up"></i></a> 
 
 <section class="row-fluid"><!--Agricultural-->
 	<article>
@@ -175,6 +179,8 @@
 		</div>
 	</article>
 </section>
+
+	<a href="#" class="return-to-top pull-right">Return to top <i class="fa fa-arrow-circle-o-up"></i></a> 
 
 <section class="row-fluid"><!--Design/Build-->
 	<article>
@@ -245,10 +251,10 @@
 			</div>
 		</div>
 	</article>
-	
-
 </section>
 
+	<a href="#" class="return-to-top pull-right">Return to top <i class="fa fa-arrow-circle-o-up"></i></a> 
+	
 <section class="row-fluid"><!--Data Systems-->
 	<article>
 		<header id="content_area" class="span10 offset1">
