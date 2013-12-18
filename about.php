@@ -119,7 +119,7 @@
 						<img src="images/portrait-brian-rieke.jpg" alt="Brian Rieke">
 						<div class="caption">
 							<h4>Brian Rieke</h4>
-							<h5>Principal Estimator/Project Manager</h5>
+							<h5>Estimator/Project Manager</h5>
 						</div>
 					</div>
 				</li>

@@ -85,7 +85,7 @@
 		<header id="content_area" class="span10 offset1">
 			<div class="padded" id="sc_residential">
 				<h3>Showcase - Residential</h3>
-				<p class="body-text">Whether you’re looking for attractive exterior lighting or indoor electrical design/retrofitting for your kitchen, basement, or home theater, we provide affordable and efficient custom solutions for your home. We accept credit cards and can assist with financing, and our work is backed by a one-year conditional warranty.</p>
+				<p class="body-text">Whether you’re looking for attractive exterior lighting or indoor electrical design/retrofitting for your kitchen, basement, or home theater, we provide affordable and efficient custom solutions for your home. We accept credit cards and can assist with financing, and our work is backed by a a one-year standard warranty.</p>
 			</div>
 		</header>
 	</article>
@@ -311,7 +311,7 @@
 				</div>
 				<div class="showcase_entry_text span7">
 				<h4>Calvary United Methodist Church – Normal, IL</h4>
-				<p class="body-text">Our systems group installed data, voice, and CATV systems, as well as a backbone for CCTV, CATV, and fiber back to their existing network for an addition to the church</p>
+				<p class="body-text">Our systems group installed data, voice, and CATV systems, as well as a backbone for CCTV, CATV, and fiber back to their existing network for an addition to the church.</p>
 				</div>
 			</div>
 		</div>
