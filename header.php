@@ -38,6 +38,20 @@ img, div, a, input { behavior: url(css/iepngfix.htc) }
 <link href='//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css' rel="stylesheet">
 <link href='//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css' rel='stylesheet' type='text/css'>
 
+<!--[if IE]>
+  <link href="/styles/ie.css" media="all" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 9]>
+  <link href="/styles/ie9.css" media="all" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+  <link href="/styles/ie8.css" media="all" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+  <link href="/styles/ie7.css" media="all" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+
 <title>Zeller Electric, Inc. Providing excellent electrical contracting service in Central Illinois with honesty and integrity since 1979</title>
 
 </head>
