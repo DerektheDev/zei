@@ -1,0 +1,2 @@
+RedirectMatch 301 /showcase/(.*) http://zeller-electric.com/showcase.php
+RedirectMatch 301 /staging/(.*) http://zeller-electric.com/
