@@ -37,6 +37,21 @@ $(document).ready(function(){
   // smooth scroll all links
   $('a:not(.showcase_link)').smoothScroll();
 
+  // return to top
+  $(document).on('click', '.return-to-top', function(event){
+    switch(window.location.pathname){
+      case '/showcase.php':
+        var target = 'showcase';
+        break;
+      default:
+        var target = 'header';
+        break;
+    }
+    $('html, body').animate({
+      scrollTop: $('#' + target).offset().top
+    }, 'slow');
+  });
+
 
   // if the showcase page loads
   if(window.location.pathname == "/showcase.php"){
