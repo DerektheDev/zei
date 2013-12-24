@@ -54,7 +54,7 @@ a{
 }
 
 #content a:visited {
-	color: #00477F;
+	/*color: #00477F;*/
 }
 
 .return-to-top {
@@ -65,7 +65,7 @@ a{
 	}
 
 .return-to-top a:visited {
-	color:#A9A9A9 !important; 
+	/*color:#A9A9A9 !important; */
 	text-decoration: none;
 }
 
@@ -246,7 +246,7 @@ ul.dropdown li{
 	display: inline-block;
 	vertical-align: middle;
 	float: left;
-	padding: 7px 15px 7px 7px;
+	padding: 7px;
 	margin: 0;
 	list-style-type: none;
 	list-style-image: none;
