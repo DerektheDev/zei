@@ -122,10 +122,11 @@
 		<div class="padded">
 			<div class="row-fluid">
 				<div class="showcase_entry_img span3 offset1">
-				&nbsp;
+				<img src="<?php echo $root; ?>images/showcase_thumbs/cnh-showcase.jpg" alt="CNH" />
 				</div>
 				<div class="showcase_entry_text span7">
-				<h4>Coming Soon!</h4>
+				<img src="<?php echo $root; ?>images/showcase_thumbs/cnh-showcase2.jpg" alt="CNH" />
+				<h4>More Coming Soon!</h4>
 				<h5>&nbsp;</h5><br />
 				<p class="body-text">&nbsp;</p>
 				</div>
