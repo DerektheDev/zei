@@ -2,6 +2,15 @@
 </div> <!--end content-->
 
 <footer id="footer">
+  <nav class="social">
+  	<ul>
+  		<li><a href="https://www.linkedin.com/pub/zeller-electric-inc/95/99a/209"><i class="fa fa-linkedin-square fa-3x"></i></a></li>
+  		<li><a href="https://plus.google.com/112340050086261802991/posts"><i class="fa fa-google-plus-square fa-3x"></i></a></li>
+  		<li><a href="https://www.facebook.com/pages/Zeller-Electric-Inc/507941065977747"><i class="fa fa-facebook-square fa-3x"></i></a></li>
+  		<li><a href="https://twitter.com/ZellerElectric"><i class="fa fa-twitter-square fa-3x"></i></a></li>
+  	</ul>
+  </nav>
+  
   <nav id="footer-menu" class="visible-desktop">
     <ul>
       <li><a href="<?php echo $root; ?>/index.php">Home</a></li>

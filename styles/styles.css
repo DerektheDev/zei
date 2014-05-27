@@ -519,6 +519,19 @@ ul#lists{
 	border-right: 1px solid #c0c0c0;
 }
 
+.social {
+	float: right;
+	width: 100%;
+	margin: 2em 3em -3em 0;
+	padding: 0;
+	list-style: none; 
+}
+
+.social li {
+	float: right;
+	padding-right: 2em;
+}
+
 .fa-check{
 	color:#00477F;
 	padding-right: 0.5em;
@@ -611,3 +624,16 @@ ul#lists{
 
 /* phone */
 @media (max-width: 640px){
+
+.social {
+	margin: 0 auto;
+	width: 100%;
+	margin: 2em 3em -3em 0;
+	padding: 0;
+	list-style: none; 
+}
+
+.social li {
+	margin: 0 auto;
+	padding-right: 2em;
+}
