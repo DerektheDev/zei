@@ -116,7 +116,7 @@
 			<ul class="thumbnails">
 				<li class="col-sm-6 span3">
 					<div class="thumbnail">
-						<img src="images/portrait-brian-rieke.jpg" alt="Brian Rieke">
+						<a href="mailto:brieke@zeller-electric.com"><img src="images/portrait-brian-rieke.jpg" alt="Brian Rieke"></a>
 						<div class="caption">
 							<h4>Brian Rieke</h4>
 							<h5>Estimator/Project Manager</h5>
@@ -142,7 +142,7 @@
 		<ul class="thumbnails">
 			<li class="col-sm-6 span3">
 				<div class="thumbnail">
-					<img src="images/portrait-seth-zeller.jpg" alt="Seth Zeller">
+					<a href="mailto:szeller@zeller-electric.com"><img src="images/portrait-seth-zeller.jpg" alt="Seth Zeller"></a>
 					<div class="caption">
 						<h4>Seth Zeller</h4>
 						<h5>Estimator/Project Manager</h5>
@@ -272,10 +272,11 @@
 		<ul class="thumbnails">
 			<li class="col-sm-6 span3">
 				<div class="thumbnail">
-					<img src="images/portrait-jordan-krone.jpg" alt="Jordan Krone">
+					<a href="mailto:jkrone@zeller-electric.com"><img src="images/portrait-jordan-krone.jpg" alt="Jordan Krone"></a>
 					<div class="caption">
 						<h4>Jordan Krone</h4>
 						<h5>Assistant Estimator</h5>
+						<h6>Email: jkrone [at] zeller-electric</h6>
 					</div>
 				</div>
 			</li>
@@ -298,7 +299,7 @@
 		<ul class="thumbnails">
 			<li class="col-sm-6 span3">
 				<div class="thumbnail">
-					<img src="images/portrait-brian-zeller.jpg" alt="Brian Zeller">
+					<a href="mailto:BZeller@zeller-electric.com"><img src="images/portrait-brian-zeller.jpg" alt="Brian Zeller"></a>
 					<div class="caption">
 						<h4>Brian Zeller</h4>
 						<h5>Office Manager</h5>
