@@ -275,8 +275,7 @@
 					<a href="mailto:jkrone@zeller-electric.com"><img src="images/portrait-jordan-krone.jpg" alt="Jordan Krone"></a>
 					<div class="caption">
 						<h4>Jordan Krone</h4>
-						<h5>Assistant Estimator</h5>
-						<h6>Email: jkrone [at] zeller-electric</h6>
+						<h5>Customer Accounts Manager/Estimator</h5>
 					</div>
 				</div>
 			</li>
