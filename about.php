@@ -187,31 +187,6 @@
 		&nbsp;
 		</div>
 	  </div>
-	  
-	<div class="row-fluid">
-		<div class="span1">
-		&nbsp;
-		</div>
-		<ul class="thumbnails">
-			<li class="col-sm-6 span3">
-				<div class="thumbnail">
-					<img src="images/portrait-andy-zeller.jpg" alt="Andy Zeller">
-					<div class="caption">
-						<h4>Andy Zeller</h4>
-						<h5>Peoria Area Superintendent</h5>
-					</div>
-				</div>
-			</li>
-
-			<li class="col-sm-6 span7">
-				<p class="bio-text">As an employee with Zeller Electric for 16 years, Andy keeps busy with a variety of projects: he coordinates and schedules workers, oversees material and equipment needs, and estimates local projects. After completing the Peoria Local #34 NJATC apprenticeship program he put his skills to work in the family business. He has been a member of CIEL (Central Illinois Electrical League) for 4 years.</p> 
-				<p class="bio-text">Andy can be found boating and golfing in his spare time and has logged 12 years as a volunteer with the Morton Fire Department. He and his wife, Becky, have been married 10 years and have two children, Gavin (6) and Tinley (2). </p>
-			</li>
-			</ul>
-		<div class="span1">
-		&nbsp;
-		</div>
-	  </div> 	
 
 	<div class="row-fluid">
 		<div class="span1">
