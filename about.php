@@ -18,9 +18,9 @@
   <article id="content_area" class="span8">
     <div id="about">  
       <h2>About Us</h2>
-      <p class="body-text">When brothers Jon and David Zeller began Zeller Electric, Inc., their two-person operation serviced just the Peoria area. Today Zeller Electric is 35 years strong and provides electrical contracting services throughout Central Illinois. As we’ve grown we’ve brought additional family members on board, and today we’re proud to be a full-fledged, second-generation business. <a href="#our-team" style="text-decoration: underline;"><b>Our team</b></a> of professionals believes in the importance of upholding our values of honesty, integrity, fairness, and quality workmanship—an outlook that has led to many long-standing relationships with our customers.</p>
+      <p class="body-text">When brothers Jon and David Zeller began Zeller Electric, Inc., their two-person operation serviced just the Peoria area. Today Zeller Electric is 35 years strong and provides electrical contracting services throughout Central Illinois. As we've grown we've brought additional family members on board, and today we're proud to be a full-fledged, second-generation business. <a href="#our-team" style="text-decoration: underline;"><b>Our team</b></a> of professionals believes in the importance of upholding our values of honesty, integrity, fairness, and quality workmanship—an outlook that has led to many long-standing relationships with our customers.</p>
       
-      <p class="body-text">Zeller Electric is a union contractor with approximately thirty experienced electrical workers on board. We are pleased to have the area’s most knowledgeable project managers, estimators, and journeymen wiremen working together to provide quality service and efficient solutions. </p>
+      <p class="body-text">Zeller Electric is a union contractor with approximately thirty experienced electrical workers on board. We are pleased to have the area's most knowledgeable project managers, estimators, and journeymen wiremen working together to provide quality service and efficient solutions. </p>
       
       <p class="body-text">In addition to installation and maintenance capabilities, we also offer design-build services that provide cost-effective, common sense solutions for all electrical needs. The industries we assist include, but are not limited to:</p>      
       <ul class="list-unstyled services" id="lists">
@@ -74,7 +74,7 @@
 			</li>
 
 			<li class="col-sm-6 span7">
-				<p class="bio-text">Jon co-founded Zeller Electric 35 years ago. His experience in the electrical industry began 6 years prior to the company’s beginnings when he gained initial experience the traditional way—by serving as an apprentice. Today he heads our successful company and is a member of NECA and IBEW.</p>
+				<p class="bio-text">Jon co-founded Zeller Electric 35 years ago. His experience in the electrical industry began 6 years prior to the company's beginnings when he gained initial experience the traditional way—by serving as an apprentice. Today he heads our successful company and is a member of NECA and IBEW.</p>
 				<p class="bio-text">Jon has been a minister with the Apostolic Christian Church for 24 years and is active in the Apostolic Christian World Relief program, where he serves as a board member for projects focusing on humanitarian efforts in the Caribbean. Jon and his wife, Christie, have four grown sons and four grandchildren.</p>
 			</li>
 			</ul>
@@ -125,9 +125,9 @@
 				</li>
 	
 				<li class="col-sm-6 span7">
-					<p class="bio-text">Brian has nearly 25 years of experience in the electrical industry—and he’s been with Zeller Electric for the duration. He holds an AAS in electronic technologies and is a graduate of the IBEW/NECA Joint Apprenticeship Training Committee program. Brian’s special interests include green building practices and technologies, and he is a USGBC LEED Green Associate. He is also a member of IBEW L.U. #34.</p>
+					<p class="bio-text">Brian has nearly 25 years of experience in the electrical industry—and he's been with Zeller Electric for the duration. He holds an AAS in electronic technologies and is a graduate of the IBEW/NECA Joint Apprenticeship Training Committee program. Brian's special interests include green building practices and technologies, and he is a USGBC LEED Green Associate. He is also a member of IBEW L.U. #34.</p>
 					
-					<p class="bio-text">Brian’s interests include shooting sports, military jeep restoration, flying radio-controlled vehicles, and reading self-improvement topics and Bible studies. (He’s also a self-admitted “hack” golfer.) Brian is active in his church and has been a firefighter with the Eureka-Goodfield Fire Protection District for 14 years. He and his wife, Lisa, have been married for 23 years. They have three grown children. </p>
+					<p class="bio-text">Brian's interests include shooting sports, military jeep restoration, flying radio-controlled vehicles, and reading self-improvement topics and Bible studies. (He's also a self-admitted "hack" golfer.) Brian is active in his church and has been a firefighter with the Eureka-Goodfield Fire Protection District for 14 years. He and his wife, Lisa, have been married for 23 years. They have three grown children. </p>
 				</li>
 				</ul>
 			<div class="span1">
@@ -204,9 +204,9 @@
 			</li>
 
 			<li class="col-sm-6 span7">
-				<p class="bio-text">Jesse is a 15-year member of Zeller Electric’s team. He coordinates labor and materials for large-scale projects, often getting involved directly as an experienced hands-on electrician. He is a member of Peoria Local #34 NJATC and IBEW Local #34, and is a CIEL board member.</p>
+				<p class="bio-text">Jesse is a 15-year member of Zeller Electric's team. He coordinates labor and materials for large-scale projects, often getting involved directly as an experienced hands-on electrician. He is a member of Peoria Local #34 NJATC and IBEW Local #34, and is a CIEL board member.</p>
 				
-				<p class="bio-text">When off-duty, Jesse enjoys family activities with his wife, Suzanne, and their two children, Keely (7) and Meesha (4). He coaches his daughters’ sports teams and is an active hunter and fisherman. Jesse’s family attends New Castle Bible Church in Mackinaw. </p>
+				<p class="bio-text">When off-duty, Jesse enjoys family activities with his wife, Suzanne, and their two children, Keely (7) and Meesha (4). He coaches his daughters' sports teams and is an active hunter and fisherman. Jesse's family attends New Castle Bible Church in Mackinaw. </p>
 			</li>
 			</ul>
 		<div class="span1">
@@ -258,7 +258,7 @@
 			<li class="col-sm-6 span7">
 				<p class="bio-text">He may be one of the newest members of our team, but Jordan has known the Zeller family for several years. Prior to joining our team he completed his BA at Eureka College, and considering he contemplated pursuing work as an electrician even before attending college, it only made sense that this interest would lead him to become a valuable member of Zeller Electric.</p>
 				
-				<p class="bio-text">Jordan coaches football and girls’ basketball at El Paso-Gridley High School and plays on an assortment of sports teams. He enjoys spending time with his family—especially when food is involved—and going to drive-in movies with his wife (and high school sweetheart) Marqui. Jordan attends the First United Church of Gridley and is on staff at The Baby Fold’s Residential Treatment Center in Normal.</p>
+				<p class="bio-text">Jordan coaches at the El Paso-Gridley schools and plays on an assortment of sports teams. He enjoys spending time with his family—especially when food is involved—and going to drive-in movies with his wife (and high school sweetheart) Marqui. Jordan attends the First United Church of Gridley.</p>
 			</li>
 			</ul>
 		<div class="span1">
@@ -284,7 +284,7 @@
 			<li class="col-sm-6 span7">
 				<p class="bio-text">Armed with the knowledge of how the business works from the shop to the field, Brian keeps things running smoothly for everyone as office manager. He holds an associates degree and has been with the company for six years.</p>
 				
-				<p class="bio-text">Brian attends monthly networking dinners and is proactive in making connections in the community. In his free time he enjoys riding his motorcycle, playing on an indoor/outdoor soccer team (he’s the hard-working goalie), listening to and playing music, and watching movies. </p>
+				<p class="bio-text">Brian attends monthly networking dinners and is proactive in making connections in the community. In his free time he enjoys riding his motorcycle, playing on an indoor/outdoor soccer team (he's the hard-working goalie), listening to and playing music, and watching movies. </p>
 			</li>
 			</ul>
 		<div class="span1">
@@ -308,7 +308,7 @@
 			</li>
 
 			<li class="col-sm-6 span7">
-				<p class="bio-text">Jean has been at Zeller for the past 10 years. She’s a native of Morton and has logged a good deal of experience with several other locally owned and operated companies, so when the position of secretary/accounts payable opened up with our company, Jean was the perfect choice.
+				<p class="bio-text">Jean has been at Zeller for the past 10 years. She's a native of Morton and has logged a good deal of experience with several other locally owned and operated companies, so when the position of secretary/accounts payable opened up with our company, Jean was the perfect choice.
 				 
 				<p class="bio-text">Jean enjoys traveling, shopping, and reading. She resides in Morton and has one grown son.</p>
 			</li>
