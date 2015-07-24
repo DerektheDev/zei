@@ -58,7 +58,7 @@
  	 <section id="content-area">
 
 	</div>
-	<div class="row-fluid">
+	<!-- <div class="row-fluid">
 		<div class="span1">
 		&nbsp;
 		</div>
@@ -81,7 +81,33 @@
 		<div class="span1">
 		&nbsp;
 		</div>
-	  </div>
+	  </div> -->
+	  
+	  	<div class="row-fluid">
+	  		<div class="span1">
+	  		&nbsp;
+	  		</div>
+	  		<ul class="thumbnails">
+	  			<li class="col-sm-6 span3">
+	  				<div class="thumbnail">
+	  					<a href="mailto:szeller@zeller-electric.com"><img src="images/portrait-seth-zeller.jpg" alt="Seth Zeller"></a>
+	  					<div class="caption">
+	  						<h4>Seth Zeller</h4>
+	  						<h5>President</h5>
+	  					</div>
+	  				</div>
+	  			</li>
+	  
+	  			<li class="col-sm-6 span7">
+	  				<p class="bio-text">Seth has been with Zeller Electric for 12 years. He has a BS in business administration and a PhD in school transfers. He oversees daily operations for all projects and keeps a keen eye on trends in the electrical industry. Seth is an accredited NECA representative and an active member with the McLean County Chamber of Commerce.</p>
+	  				
+	  				<p class="bio-text">Seth has been married for 6 years and makes it a priority to spend time with his wife and three young children, Finn, Juno, and Hart. He is an avid reader and enjoys nearly all sports and outdoor activities. His family attends First United Church of Gridley. </p>
+	  			</li>
+	  			</ul>
+	  		<div class="span1">
+	  		&nbsp;
+	  		</div>
+	  	  </div>
 	  
 	  <div class="row-fluid">
 	  	<div class="span1">
@@ -119,7 +145,7 @@
 						<a href="mailto:brieke@zeller-electric.com"><img src="images/portrait-brian-rieke.jpg" alt="Brian Rieke"></a>
 						<div class="caption">
 							<h4>Brian Rieke</h4>
-							<h5>Estimator/Project Manager</h5>
+							<h5>Vice President</h5>
 						</div>
 					</div>
 				</li>
@@ -134,32 +160,6 @@
 			&nbsp;
 			</div>
 		  </div>	  	
-	  	
-	<div class="row-fluid">
-		<div class="span1">
-		&nbsp;
-		</div>
-		<ul class="thumbnails">
-			<li class="col-sm-6 span3">
-				<div class="thumbnail">
-					<a href="mailto:szeller@zeller-electric.com"><img src="images/portrait-seth-zeller.jpg" alt="Seth Zeller"></a>
-					<div class="caption">
-						<h4>Seth Zeller</h4>
-						<h5>Estimator/Project Manager</h5>
-					</div>
-				</div>
-			</li>
-
-			<li class="col-sm-6 span7">
-				<p class="bio-text">Seth has been with Zeller Electric for 12 years. He has a BS in business administration and a PhD in school transfers. He oversees daily operations for all projects and keeps a keen eye on trends in the electrical industry. Seth is an accredited NECA representative and an active member with the McLean County Chamber of Commerce.</p>
-				
-				<p class="bio-text">Seth has been married for 6 years and makes it a priority to spend time with his wife and three young children, Finn, Juno, and Hart. He is an avid reader and enjoys nearly all sports and outdoor activities. His family attends First United Church of Gridley. </p>
-			</li>
-			</ul>
-		<div class="span1">
-		&nbsp;
-		</div>
-	  </div>
 
 	<div class="row-fluid">
 		<div class="span1">
@@ -171,7 +171,7 @@
 					<img src="images/portrait-luke-zeller.jpg" alt="Luke Zeller">
 					<div class="caption">
 						<h4>Luke Zeller</h4>
-						<h5>Bloomington Area Superintendent</h5>
+						<h5>Vice President</h5>
 					</div>
 				</div>
 			</li>
@@ -188,7 +188,7 @@
 		</div>
 	  </div>
 
-	<div class="row-fluid">
+	<!-- <div class="row-fluid">
 		<div class="span1">
 		&nbsp;
 		</div>
@@ -212,7 +212,7 @@
 		<div class="span1">
 		&nbsp;
 		</div>
-	  </div>
+	  </div> -->
 
 	<div class="row-fluid">
 		<div class="span1">
